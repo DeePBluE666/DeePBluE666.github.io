@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bo Li"
-  avatar           : "dog.jpg"
+  avatar           : "https://DeePBluE666.github.io/images/dog.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Beijing China"
   employer         :
