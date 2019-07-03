@@ -33,3 +33,9 @@ demonstrate that the BPIE-SRNN and BPIE-BiSRNN models always achieve a much bett
 
 
 [Download paper here](http://deepblue666.github.io/files/Long_Text_Analysis_Using_Sliced_Recurrent_Neural_Networks_With_Breaking_Point_Information_Enrichment.pdf) 
+
+
+**Code**
+
+
+[Code Availiable Here](https://github.com/limberc/BPIE-BiSRNN)
