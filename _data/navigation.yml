@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/   
 
-  - title: "Award"
+  - title: "Awards"
     url: /award/
     
   - title: "Teaching"
@@ -15,5 +15,7 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: 'Projects"
+    url: /project/
 #   - title: "Blog Posts"
 #    url: /year-archive/
