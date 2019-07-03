@@ -1,36 +1,39 @@
 ---
-title: "Long Text Analysis Using Sliced Recurrent Neural Networks With Breaking Point Information Enrichment"
+title: "Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data"
 collection: publications
-permalink: /publication/Long Text Analysis Using Sliced Recurrent Neural Networks With Breaking Point Information Enrichment
+permalink: /publication/Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data
 excerpt: '
-**Brief Introduction** : This paper is about long text classification problem and accepted by ICASSP2019. In this paper, based on SRNN, we propose a breaking point information 
-enrichment mechanism to strengthen dependencies between sliced subsequences without hindering parallelization. 
+**Brief Introduction** : This paper is about Relation Extraction and Relation Identification and accepted by ACL2019. In this paper, we use tag embeddings and improved multi-task learning to obtain the state-of-the-art 
+performances on ACE2005 Chinese and English corpus. 
 
 
-**Authors** : Bo Li^‚ Zehua Cheng^‚ Zhenghua Xu‚ Wei Ye‚ Thomas Lukasiewicz and Shikun Zhang. (^indicates equal contribution)
+**Authors** : Wei Ye^, **Bo Li**^, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang. (^indicates equal contribution)
 
 
-**Place** : Brighton‚ UK
+**Place** : Florence, Italy
 
 
-**Date** : May 12−17, 2019
+**Date** : July 28th to August 2nd, 2019
 '
 
-
 date: 2019
-venue: 'Proceedings of the 2019 IEEE International Conference on Acoustics‚ Speech and Signal Processing (ICASSP2019)'
+venue: 'The 57th Annual Meeting of the Association for Computational Linguistics (ACL2019)'
 
 ---
 **Abstrcat**
 
-Sliced recurrent neural networks (SRNNs) are the state-of-the-art effificient solution for long text analysis tasks; however, their slicing operations inevitably result
-in long-term dependency loss in lower-level networks and thus limit their accuracy. Therefore, we propose a breaking point information enrichment mechanism to 
-strengthen dependencies between sliced subsequences without hindering parallelization. Then, the resulting BPIE-SRNN model is further extended to a bidirectional model,
-BPIE-BiSRNN, to utilize the dependency information in not only the previous but also the following contexts. Experiments on four large public real-world datasets 
-demonstrate that the BPIE-SRNN and BPIE-BiSRNN models always achieve a much better accuracy than SRNNs and BiSRNNs, while maintaining a superior training effificiency. 
+In practical scenario, relation extraction needs to first identify entity pairs that have relation and then assign a correct relation class. 
+However, the number of non-relation entity pairs in context (negative instances) usually far exceeds the others (positive instances), which negatively 
+affects a model’s performance. To mitigate this problem, we propose a multi-task architecture which jointly trains a model to perform relation identifification 
+with cross entropy loss and relation classifification with ranking loss. Meanwhile, we observe that a sentence may have multiple entities and relation mentions, 
+and the patterns in which the entities appear in a sentence may contain useful semantic information that can be utilized to distinguish between positive and negative 
+instances. Thus we further incorporate the embeddings of character-wise/word-wise BIO tag from the named entity recognition task into character/word embeddings to 
+enrich the input representation. Experiment results show that our proposed approach can signifificantly improve the performance of a baseline model with more than 10% 
+absolute increase in F1-score, and outperform the state-of-the-art models on ACE 2005 Chinese and English corpus. Moreover, BIO tag embeddings are particularly 
+effective and can be used to improve other models as well. 
 
 
 **Paper Download**
 
 
-[Download paper here](http://deepblue666.github.io/files/Long_Text_Analysis_Using_Sliced_Recurrent_Neural_Networks_With_Breaking_Point_Information_Enrichment.pdf) 
+[Download paper here](http://deepblue666.github.io/files/Exploiting_Entity_BIO_Tag_Embeddings_and_Multi_task_Learning_for_Relation_Extraction_with_Imbalanced_Data.pdf) 
