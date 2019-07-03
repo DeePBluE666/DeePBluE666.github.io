@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,6 +31,8 @@ Publications
   {% endfor %}</ul>
   
   [**More Details**](https://deepblue666.github.io//publications/)
+
+  
 Project Experience
 ======
 * **Big Data Platform about Intelligent Diagnosis for Industrial Construction**  
@@ -84,10 +86,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards
+Awards(Part)
 ======
-  <ul>{% for post in site.awards %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  *National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
+
+  *Cross-Language Short Text Matching - CIKM AnalytiCup 2018 - 3/1027
+  
+  *Click Transformation Rate Prediction - IJCAI2018 - 5/5024(Top 0.1%)
+  
+  *Weather Prediction - KDD2018 - 5/5024(Top 0.1%)
+  
+  *Kaggle: TGS Salt Identification Challenge - 10/3234(Gold Medal)
+  
+  *Tianchi: Medical Knowledge Graph Challenge - 2/1029
 
   [**More Details**](https://deepblue666.github.io//award/)
