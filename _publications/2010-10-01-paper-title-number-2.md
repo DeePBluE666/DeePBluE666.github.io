@@ -7,7 +7,7 @@ excerpt: '
 performances on ACE2005 Chinese and English corpus. 
 
 
-**Authors** : Wei Ye†, **Bo Li†**, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang. (†indicates equal contribution)
+**Authors** : Wei Ye^, **Bo Li**^, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang. (^indicates equal contribution)
 
 
 **Place** : Florence, Italy
