@@ -88,16 +88,16 @@ Teaching
   
 Awards(Part)
 ======
-  *National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
+*National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
 
-  *Cross-Language Short Text Matching - CIKM AnalytiCup 2018 - 3/1027
+*Cross-Language Short Text Matching - CIKM AnalytiCup 2018 - 3/1027
   
-  *Click Transformation Rate Prediction - IJCAI2018 - 5/5024(Top 0.1%)
+*Click Transformation Rate Prediction - IJCAI2018 - 5/5024(Top 0.1%)
   
-  *Weather Prediction - KDD2018 - 5/5024(Top 0.1%)
+*Weather Prediction - KDD2018 - 5/5024(Top 0.1%)
   
-  *Kaggle: TGS Salt Identification Challenge - 10/3234(Gold Medal)
+*Kaggle: TGS Salt Identification Challenge - 10/3234(Gold Medal)
   
-  *Tianchi: Medical Knowledge Graph Challenge - 2/1029
+*Tianchi: Medical Knowledge Graph Challenge - 2/1029
 
-  [**More Details**](https://deepblue666.github.io//award/)
+[**More Details**](https://deepblue666.github.io//award/)
