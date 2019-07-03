@@ -14,7 +14,7 @@ the sequential data.
 **Place** : Wuhan‚ China
 
 
-**Date** : August 15-18, 2018
+**Date** : August 15th-18th, 2018
 '
 
 date: August 15, 2018
