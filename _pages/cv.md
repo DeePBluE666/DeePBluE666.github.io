@@ -52,13 +52,16 @@ Project Experience
 
 Work Experience
 ======
-* **CortexLab.ai**   March, 2018 - September, 2018
+* **CortexLab.ai**   
+  * March, 2018 - September, 2018
   * Deep Learning Engnieer
 
-* **Dept. Fintech - JD Finance**   September, 2017 - January, 2018
+* **Dept. Fintech - JD Finance**   
+  * September, 2017 - January, 2018
   * Technical Adviser
 
-* **Y Group, JD.com**   June, 2017 - September, 2017
+* **Y Group, JD.com**   
+  * June, 2017 - September, 2017
   * Research Engineer
 
 Teaching
