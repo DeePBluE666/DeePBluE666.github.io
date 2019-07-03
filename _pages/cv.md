@@ -44,7 +44,7 @@ Project Experience
 * **Supply Chain Revenue Management System**  
   
 * **Stock Market Forecasting and Consumer Credit Modeling**  
-  model.
+  
 
 [**More Details**](https://deepblue666.github.io//project/) 
 
@@ -52,14 +52,14 @@ Project Experience
 
 Work Experience
 ======
-* March, 2018 - September, 2018: CortexLab.ai
-  * **Deep Learning Engnieer**
+* **CortexLab.ai**   March, 2018 - September, 2018
+  * Deep Learning Engnieer
 
-* September, 2017 - January, 2018: Dept. Fintech - JD Finance
-  * **Technical Adviser**
+* **Dept. Fintech - JD Finance**   September, 2017 - January, 2018
+  * Technical Adviser
 
-* June, 2017 - September, 2017: Y Group, JD.com
-  * **Research Engineer**
+* **Y Group, JD.com**   June, 2017 - September, 2017
+  * Research Engineer
 
 Teaching
 ======
