@@ -3,15 +3,15 @@ title: "Multi-Scale DenseNet-Based Electricity Theft Detection"
 collection: publications
 permalink: /publication/Multi-Scale DenseNet-Based Electricity Theft Detection
 excerpt: '
-**Brief Introduction** : This paper is about electricty theft detection based on Mulit-scale DenseNet and accepted by ICIC2018. n this paper, we present a novel approach for automatic detection 
+**Brief Introduction** : This paper is about electricity theft detection based on Multi-scale DenseNet and accepted by ICIC2018. In this paper, we present a novel approach for automatic detection 
 by using a multi-scale dense connected convolution neural network (multi-scale DenseNet) in order to capture the long-term and short-term periodic features within 
 the sequential data. 
 
 
-**Authors** : **Bo Li**, Kele Xu, Xiaoyan Cui1, Yiheng Wang, Xinbo Ai, Yanbo Wang
+**Authors** : **Bo Li**, Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang
 
 
-**Place** : Brighton‚ UK
+**Place** : Wuhan‚ China
 
 
 **Date** : August 15-18, 2018
