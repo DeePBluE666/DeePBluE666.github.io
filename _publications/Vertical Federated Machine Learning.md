@@ -1,7 +1,7 @@
 ---
-title: "Denoising Convolutional Autoencoder Based B-Mode Ultrasound Tongue Image Feature Extraction"
+title: "Multi-task Learning for Vertical Federated Machine Learning: A Case Study For Cross-Lingual Short-Text Matching"
 collection: publications
-permalink: /publication/Denoising Convolutional Autoencoder Based B-Mode Ultrasound Tongue Image Feature Extraction
+permalink: /publication/Vertical Federated Machine Learning
 excerpt: '
 **Brief Introduction** : This paper is about feature extraction in the ultrasound tongue image and accepted by ICASSP2019. In this paper, we explore unsupervised 
 convolutional network architecture for the feature extraction in the ultrasound tongue image which can be helpful for the clinical linguist and phonetics. 
