@@ -7,13 +7,13 @@ excerpt: '
 enrichment mechanism to strengthen dependencies between sliced subsequences without hindering parallelization. 
 
 
-**Authors** : Bo Li^‚ Zehua Cheng^‚ Zhenghua Xu‚ Wei Ye‚ Thomas Lukasiewicz and Shikun Zhang. (^indicates equal contribution)
+**Authors** : **Bo Li**^‚ Zehua Cheng^‚ Zhenghua Xu‚ Wei Ye‚ Thomas Lukasiewicz and Shikun Zhang. (^indicates equal contribution)
 
 
 **Place** : Brighton‚ UK
 
 
-**Date** : May 12−17, 2019
+**Date** : May 12th−17th, 2019
 '
 
 date: May 12, 2019
