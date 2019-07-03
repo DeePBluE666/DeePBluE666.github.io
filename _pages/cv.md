@@ -11,9 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Research Intern** [Peking University](https://www.pku.edu.cn/)
+
+
+  - Deep Leanring and Natural Language Processing, June, 2018 - Now
+* **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)
+
+
+  - Control Science & Engineering - Information Processing and Data Mining, September, 2016 - June, 2019 
+* **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/)
+
+
+  - Control Science & Engineering  September, 2010 - July, 2014
+  
+  
+Research & Project Experience
+======
+* **Big Data Platform about Intelligent Diagnosis for Industrial Construction**   Mar. 2017 - Dec. 2017
+  * **Field** : Machine Learning
+
+  * **Details** : 1) Data preprocessing includes data normalization, missing value processing, data visualization and exploratory
+analysis. 2) Perform feature engineering on industry building vibration data. 3)Building event recognition model using machine learning algorithms such as random forest, gradient boosting
+tree and neural network.
+
 
 Work experience
 ======
@@ -41,12 +61,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Teaching
 ======
