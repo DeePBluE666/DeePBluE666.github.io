@@ -17,7 +17,7 @@ In this paper, we propose a vertical federated learning framework using multi-ta
 '
 
 date: Aug 12, 2019
-venue: 'he 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML-19)
+venue: 'The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML-19)
 in conjunction with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19)'
 
 ---
