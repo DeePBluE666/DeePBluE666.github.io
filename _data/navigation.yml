@@ -5,6 +5,9 @@ main:
 
   - title: "Awards"
     url: /award/
+   
+  - title: "Projects"
+    url: /project/
     
   - title: "Teaching"
     url: /teaching/    
@@ -15,7 +18,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Projects"
-    url: /project/
+
 #   - title: "Blog Posts"
 #    url: /year-archive/
