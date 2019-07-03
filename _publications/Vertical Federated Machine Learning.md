@@ -1,13 +1,13 @@
 ---
 title: "Multi-task Learning for Vertical Federated Machine Learning: A Case Study For Cross-Lingual Short-Text Matching"
 collection: publications
-permalink: /publication/Multi-task Learning for Vertical Federated Machine Learning: A Case Study For Cross-Lingual Short-Text Matching
+permalink: /publication/Vertical Federated Machine Learning
 excerpt: '
 **Brief Introduction** : This paper is about vertical federated machine learning on cross-lingual short-text matching and accepted by FML'19(a workshop in IJCAI-19). 
 In this paper, we propose a vertical federated learning framework using multi-task learning.
 
 
-**Authors** : **Bo Li**, Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu
+**Authors** : **Bo Li**, Kele Xu, Haibo Mi, Dawei Feng, Huaimin Wang and Yanbo J. Wang
 
 
 **Place** : Macau‚ China
