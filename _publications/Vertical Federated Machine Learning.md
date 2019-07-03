@@ -1,43 +1,42 @@
 ---
-title: "Multi-task Learning for Vertical Federated Machine Learning: A Case Study For Cross-Lingual Short-Text Matching"
+title: "Denoising Convolutional Autoencoder Based B-Mode Ultrasound Tongue Image Feature Extraction"
 collection: publications
-permalink: /publication/Vertical Federated Machine Learning
+permalink: /publication/Denoising Convolutional Autoencoder Based B-Mode Ultrasound Tongue Image Feature Extraction
 excerpt: '
-**Brief Introduction** : This paper is about vertical federated machine learning on cross-lingual short-text matching and accepted by FML'19(a workshop in IJCAI-19). 
-In this paper, we propose a vertical federated learning framework using multi-task learning.
+**Brief Introduction** : This paper is about feature extraction in the ultrasound tongue image and accepted by ICASSP2019. In this paper, we explore unsupervised 
+convolutional network architecture for the feature extraction in the ultrasound tongue image which can be helpful for the clinical linguist and phonetics. 
 
 
-**Authors** : **Bo Li**, Kele Xu, Haibo Mi, Dawei Feng, Huaimin Wang and Yanbo J. Wang
+**Authors** : **Bo Li**, Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu
 
 
-**Place** : Macau‚ China
+**Place** : Brighton‚ UK
 
 
-**Date** : Aug 12, 2019
+**Date** : May 12th−17th, 2019
 '
 
-date: Aug 12, 2019
-venue: 'The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML’19)
-in conjunction with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19)'
+date: May 12, 2019
+venue: 'Proceedings of the 2019 IEEE International Conference on Acoustics‚ Speech and Signal Processing (ICASSP2019)'
 
 ---
 **Abstrcat**
 
-With the advert of IOT and the increasing usage of smart devices, the generated data has increased exponentially. The capacity of the machine learning approaches, 
-can be improved by using more high quality labeled data, which are often stored in independent devices. Most of the traditional machine learning approaches require 
-centralizing the multiparty data to train a model, using a central server to store the data, with the goal to obtain superior performance. Federated machine learning 
-can be employed to address aforementioned issues without centralizing the data. In this paper, we propose a vertical federated learning framework using multi-task 
-learning. And, our approach employs partly shared model to protect the privacy. In a practical environment, we conduct extensive experiments on the cross-lingual 
-short-text matching task. Results demonstrate the effectiveness of the proposed method.
+B-mode ultrasound tongue imaging is widely used in the speech production field. However, efficient interpretation is in a great need for the tongue image sequences. 
+Inspired by the recent success of unsupervised deep learning approach, we explore unsupervised convolutional network architecture for the feature extraction in the 
+ultrasound tongue image, which can be helpful for the clinical linguist and phonetics. By quantitative comparison between different unsupervised feature extraction 
+approaches, the denoising convolutional autoencoder (DCAE)-based method outperforms the other feature extraction methods on the reconstruction task and the 2010 
+silent speech interface challenge. A Word Error Rate of 6.17% is obtained with DCAE, compared to the state-of-the-art value of 6.45% using Discrete cosine transform 
+as the feature extractor. 
 
 
 **Paper Download**
 
 
-**Not Availiable Yet** 
+[Download paper here](http://deepblue666.github.io/files/Denoising_Convolutional_Autoencoder_Based_B-Mode_Ultrasound_Tongue_Image_Feature_Extraction.pdf) 
 
 
 **Code**
 
 
-**Not Availiable Yet**
+[Code Availiable Here](https://github.com/DeePBluE666/Source-code1)
