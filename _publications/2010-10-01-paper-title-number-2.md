@@ -1,15 +1,40 @@
 ---
-title: "Paper Title Number 2"
+title: "Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data
+excerpt: '
+**Brief Introduction** : This paper is about Relation Extraction and Relation Identification and accepted by ACL2019. In this paper, we use tag embeddings and improved multi-task learning to obtain the state-of-the-art 
+performances on ACE2005 Chinese and English corpus. 
+
+
+**Authors** : Wei Ye†, **Bo Li†**, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang. (†indicates equal contribution)
+
+
+**Place** : Florence, Italy
+
+
+**Date** : 28 July, 2019
+'
+
+date: 28 July 2019
+venue: 'The 57th Annual Meeting of the Association for Computational Linguistics (ACL2019)'
+
+citation: 'NOT Available Yet'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+**Abstrcat**
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+In practical scenario, relation extraction needs to first identify entity pairs that have relation and then assign a correct relation class. 
+However, the number of non-relation entity pairs in context (negative instances) usually far exceeds the others (positive instances), which negatively 
+affects a model’s performance. To mitigate this problem, we propose a multi-task architecture which jointly trains a model to perform relation identifification 
+with cross entropy loss and relation classifification with ranking loss. Meanwhile, we observe that a sentence may have multiple entities and relation mentions, 
+and the patterns in which the entities appear in a sentence may contain useful semantic information that can be utilized to distinguish between positive and negative 
+instances. Thus we further incorporate the embeddings of character-wise/word-wise BIO tag from the named entity recognition task into character/word embeddings to 
+enrich the input representation. Experiment results show that our proposed approach can signifificantly improve the performance of a baseline model with more than 10% 
+absolute increase in F1-score, and outperform the state-of-the-art models on ACE 2005 Chinese and English corpus. Moreover, BIO tag embeddings are particularly 
+effective and can be used to improve other models as well. 
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
+**Paper Download**
+
+
+[Download paper here](http://deepblue666.github.io/files/Exploiting_Entity_BIO_Tag_Embeddings_and_Multi_task_Learning_for_Relation_Extraction_with_Imbalanced_Data.pdf) 
