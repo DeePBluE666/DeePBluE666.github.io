@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Download Resume Here [Chinese version ](http://deepblue666.github.io/files/Resume_CN.pdf)   [English Version ](http://deepblue666.github.io/files/Resume_EN.pdf) 
+Download Resume Here 
+
+[Chinese Version ](http://deepblue666.github.io/files/Resume_CN.pdf)   
+
+[English Version ](http://deepblue666.github.io/files/Resume_EN.pdf) 
 
 Education
 ======
