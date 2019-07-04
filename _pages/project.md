@@ -7,8 +7,6 @@ redirect_from:
   - /project.html
 ---
 
-## Project Experience
-
 * **Big Data Platform about Intelligent Diagnosis for Industrial Construction**  
   * **Field** : Machine Learning
 

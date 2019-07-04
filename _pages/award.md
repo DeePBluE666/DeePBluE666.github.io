@@ -1,14 +1,34 @@
 ---
 permalink: /award/
-title: "Markdown"
+title: "Full Awards List"
 author_profile: true
 redirect_from: 
   - /md/
   - /award.html
 ---
 
-## Locations of key files/directories
+>Ordinary Awards
 
+
+##  National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
+
+##  Competition Master at Kaggel
+
+##  Excellent Undergraduate Thesis of University of Jinan
+
+
+>Competition Awards
+
+* CIKM AnalytiCup 2018:  Cross-Language Short Text Matching
+  * Field: Natural Language Processing
+  * Rank: 3/1027
+  * Details: 
+	* The contest provide a large number of unlabeled English corpus, marked Spanish corpus and corresponding English translation. The task is to determine whether the given two Spanish languages contain similar semantics.
+    * Unlabeled corpus is used to train word2vec, and TF-IDF statistics is used to modify the weight of word vectors to make full use of English unlabeled corpus.
+    * Building a multi-task learning model, to process Spanish and English at the same time. The performance of semantic similarity judgment is significant improved by partially sharing parameters and LSTM layer.
+
+
+## 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
