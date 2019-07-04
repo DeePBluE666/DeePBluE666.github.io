@@ -74,11 +74,11 @@ Awards(Part)
 ======
 * National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
 
-* Cross-Language Short Text Matching - CIKM AnalytiCup 2018 - 3/1027
+* CIKM AnalytiCup 2018： Cross-Language Short Text Matching - 3/1027
   
-* Click Transformation Rate Prediction - IJCAI2018 - 5/5024(Top 0.1%)
+* IJCAI2018： Click Transformation Rate Prediction - 5/5024(Top 0.1%)
   
-* Weather Prediction - KDD2018 - 5/5024(Top 0.1%)
+* KDD2018： Weather Prediction - 5/5024(Top 0.1%)
   
 * Kaggle: TGS Salt Identification Challenge - 10/3234(Gold Medal)
   

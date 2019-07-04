@@ -1,5 +1,5 @@
 ---
-title: "Multi-Scale DenseNet-Based Electricity Theft Detection"
+title: "ICIC2019： Multi-Scale DenseNet-Based Electricity Theft Detection"
 collection: publications
 permalink: /publication/Multi-Scale DenseNet-Based Electricity Theft Detection
 excerpt: '

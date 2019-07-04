@@ -1,5 +1,5 @@
 ---
-title: "Denoising Convolutional Autoencoder Based B-Mode Ultrasound Tongue Image Feature Extraction"
+title: "ICASSP2019： Denoising Convolutional Autoencoder Based B-Mode Ultrasound Tongue Image Feature Extraction"
 collection: publications
 permalink: /publication/Denoising Convolutional Autoencoder Based B-Mode Ultrasound Tongue Image Feature Extraction
 excerpt: '
