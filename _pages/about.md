@@ -23,8 +23,13 @@ Since 2018, I paid more attention to my research as I became interested in build
 several papers on AI and other related topics in different journals and conferences. 
 [**More details can be found in Publications.**](https://deepblue666.github.io//publications/)
 
+
 Contact with me
 ------
 E-mail: deepblue.lb@gmail.com 
 
 Zhihu: [click_here](https://www.zhihu.com/people/bob-8-99-69/activities)
+
+Kaggle: [click_here](https://www.kaggle.com/buptbob)
+
+Tianchi: [click_here](https://tianchi.aliyun.com/home/science/scienceDetail?spm=5176.12922503.0.0.2b5b2c8eC8HI99&userId=1095279125639)

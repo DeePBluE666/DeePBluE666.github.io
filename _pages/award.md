@@ -10,11 +10,11 @@ redirect_from:
 >Ordinary Awards
 
 
-####  National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
+###  National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
 
-####  Competition Master at Kaggle
+###  Competition Master at Kaggle
 
-####  Excellent Undergraduate Thesis of University of Jinan
+###  Excellent Undergraduate Thesis of University of Jinan
 
 
 >Competition Awards
