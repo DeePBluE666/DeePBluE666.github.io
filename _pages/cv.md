@@ -78,7 +78,7 @@ Awards(Part)
   
 * IJCAI2018： Click Transformation Rate Prediction - 5/5024(Top 0.1%)
   
-* KDD2018： Weather Prediction - 5/5024(Top 0.1%)
+* KDD2018： Weather Prediction - 7/4170(Top 0.2%)
   
 * Kaggle： TGS Salt Identification Challenge - 10/3234(Gold Medal)
   
