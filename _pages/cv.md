@@ -15,11 +15,11 @@ Education
 
 
   - Deep Leanring and Natural Language Processing
-* **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)   2016 - June, 2019 
+* **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)   September， 2016 - June, 2019 
 
 
   - Control Science & Engineering - Information Processing and Data Mining, September 
-* **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/)   2010 - July, 2014
+* **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/)   September， 2010 - July, 2014
 
 
   - Control Science & Engineering  September
