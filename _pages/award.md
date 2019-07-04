@@ -7,7 +7,7 @@ redirect_from:
   - /award.html
 ---
 
->Ordinary Awards
+>**Part1: Ordinary Awards**
 
 
 ###  National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
@@ -17,9 +17,9 @@ redirect_from:
 ###  Excellent Undergraduate Thesis of University of Jinan
 
 
->Competition Awards
+>**Part2: Competition Awards** (Random Sort)
 
-* **CIKM AnalytiCup 2018:  Cross-Language Short Text Matching**
+* **22. CIKM AnalytiCup 2018:  Cross-Language Short Text Matching**
   * Field: Deep Learning and Natural Language Processing
   * Rank: 3/1027
   * Details: 
@@ -28,7 +28,7 @@ redirect_from:
     * Building a multi-task learning model, to process Spanish and English at the same time. The performance of semantic similarity judgment is significant improved by partially sharing parameters and LSTM layer.
 
 	
-* **IJCAI 2018:  Click Transformation Rate Prediction**
+* **21. IJCAI 2018:  Click Transformation Rate Prediction**
   * Field: Machine Learning and Data Mining 
   * Rank: 5/5024(Top 0.1%)
   * Details: 
@@ -37,7 +37,7 @@ redirect_from:
     * Perform transfer learning to predict the results of the above models are taken as the features of the promotional day, to significant improves the performance of the models.	
 	
 
-* **KDD2018:  Weather Prediction**
+* **20. KDD2018:  Weather Prediction**
   * Field: Deep Learning and Data Mining 
   * Rank: 7/4170(Top 0.2%)
   * Details: 
@@ -45,7 +45,7 @@ redirect_from:
     * Using LSTM and CapsuleNet hybrid model and stacking ensemble model to build a weather forecasting system.	
 
 
-* **Kaggle:  TGS Salt Identification Challenge**
+* **19. Kaggle:  TGS Salt Identification Challenge**
   * Field: Deep Learning and Computer Vision 
   * Rank: 10/3234(Gold Medal)
   * Details: 
@@ -53,7 +53,7 @@ redirect_from:
     * Using different data argumentation techniques.	
 	* Built a U-net with ResNet Blocks model to solve the problem.
 
-* **Tianchi:  Medical Knowledge Graph Challenge**
+* **18. Tianchi:  Medical Knowledge Graph Challenge**
   * Field: Deep Learning and Natural Language Processing 
   * Rank: 2/1029
   * Details: 
@@ -62,7 +62,7 @@ redirect_from:
 	* The BIO information of entities is introduced to the relation extraction model, which greatly improves the performance of the model.	
 	* Obtain dynamic entity vectors through entity vector pre-training model, similar to language model.
 
-* **Tianchi:  Medical Knowledge Graph Challenge**
+* **17. Tianchi:  Medical Knowledge Graph Challenge**
   * Field: Deep Learning and Natural Language Processing 
   * Rank: 2/1029
   * Details: 
@@ -71,97 +71,97 @@ redirect_from:
 	* The BIO information of entities is introduced to the relation extraction model, which greatly improves the performance of the model.	
 	* Obtain dynamic entity vectors through entity vector pre-training model, similar to language model.
 
-* **G-Research： G-Financial Forecasting Challenge** 
+* **16. G-Research： G-Financial Forecasting Challenge** 
   * Field: Machine Learning and Data Mining
   * Rank: 3/406
   * Details: 
     * To Be Continue
 	
-* **China Computer Federation(CCF)： Big Data & Computing Intelligence Contest 2017(BDCI) Optimization of Supermarket Supply and Marketing** 
+* **15. China Computer Federation(CCF)： Big Data & Computing Intelligence Contest 2017(BDCI) Optimization of Supermarket Supply and Marketing** 
   * Field: Machine Learning, Deep Learning and Data Mining
   * Rank: 1/706
   * Details: 
     * To Be Continue
 
-* **China Computer Federation(CCF)： Big Data & Computing Intelligence Contest 2017(BDCI) Business Operation Exit Risk Forecasting** 
+* **14. China Computer Federation(CCF)： Big Data & Computing Intelligence Contest 2017(BDCI) Business Operation Exit Risk Forecasting** 
   * Field: Machine Learning and Data Mining
   * Rank: 2/507
   * Details: 
     * To Be Continue	
 
-* **Campus traffic forecast** 
+* **13. Beijing Campus University Big Data Competition 2018: Campus traffic forecast** 
   * Field: Machine Learning and Data Mining
   * Rank: 2/335
   * Details: 
     * To Be Continue	
 	
-* **China Mobile: 4G User Churn Prediction** 
+* **12. China Mobile: 4G User Churn Prediction** 
   * Field: Machine Learning and Data Mining
   * Rank: 1/126
   * Details: 
     * To Be Continue
 
-* **Zhijiang Cup: Video recognition and Q & A** 
+* **11. Zhijiang Cup: Video recognition and Q & A** 
   * Field: Deep Learning and Computer Vision
   * Rank: 5/934
   * Details: 
     * To Be Continue	
 
-* **Tianchi: The 3rd Alibaba Cloud Security Algorithm Challenge** 
+* **10. Tianchi: The 3rd Alibaba Cloud Security Algorithm Challenge** 
   * Field: Machine Learning, Deep Learning and Data Mining
   * Rank: 3/622
   * Details: 
     * To Be Continue	
 	
-* **Tencent: Mobile App Ad Conversion Rate Forecasting** 
+* **9. Tencent: Mobile App Ad Conversion Rate Forecasting** 
   * Field: Machine Learning, Deep Learning and Data Mining
   * Rank: 3/1027
   * Details: 
     * To Be Continue	
 
-* **JD.com: High-Potential User Purchase Intention Prediction** 
+* **8. JD.com: High-Potential User Purchase Intention Prediction** 
   * Field: Machine Learning and Data Mining
   * Rank: 6/4242
   * Details: 
     * To Be Continue
 
-* **China Merchants Bank: User Purchase Forecasting in Finance Scenario** 
+* **7. China Merchants Bank: User Purchase Forecasting in Finance Scenario** 
   * Field: Machine Learning and Data Mining
   * Rank: 4/1596
   * Details: 
     * To Be Continue
 	
-* **ppdai Mirror Cup: Text Matching Challenge** 
+* **6. ppdai Mirror Cup: Text Matching Challenge** 
   * Field: Deep Learning and Natural Language Processing
   * Rank: 2/576
   * Details: 
     * To Be Continue
 	
-* **Daguan Cup: Long Sentence Classification Challenge** 
+* **5. Daguan Cup: Long Sentence Classification Challenge** 
   * Field: Deep Learning and Natural Language Processing
   * Rank: 3/4878
   * Details: 
     * To Be Continue
 	
-* **Kaggle: Favorita Grocery Sales Forecasting** 
+* **4. Kaggle: Favorita Grocery Sales Forecasting** 
   * Field: Machine Learning and Data Mining
   * Rank: 23/1675(Silver Medal)
   * Details: 
     * To Be Continue
 	
-* **Kaggle: Talking data Adtracking Fraud Detection** 
+* **3. Kaggle: Talking data Adtracking Fraud Detection** 
   * Field: Machine Learning, Deep Learning and Data Mining
   * Rank: 36/3951(Silver Medal)
   * Details: 
     * To Be Continue
 	
-* **Kaggle: Society Camera Model Identification** 
+* **2. Kaggle: Society Camera Model Identification** 
   * Field: Deep Learning and Computer Vision
   * Rank: 42/582(Silver Medal)
   * Details: 
     * To Be Continue
 	
-* **Kaggle: Avito Demand Prediction** 
+* **1. Kaggle: Avito Demand Prediction** 
   * Field: Machine Learning and Data Mining
   * Rank: 60/1873(Silver Medal)
   * Details: 
