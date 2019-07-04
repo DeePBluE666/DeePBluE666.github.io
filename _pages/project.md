@@ -19,32 +19,26 @@ redirect_from:
   * **Field** : Deep Learning, Computer Vision
 
   * **Details** : 
-    * Perform LSTM and attention mechanism model over the industrial data with time series information, find the time period which has the greatest 
-  relationship with the cause of the accident and the abnormal parameters, so as to improve the detection performance of the cause of the accident.
+    * Perform LSTM and attention mechanism model over the industrial data with time series information, find the time period which has the greatest relationship with the cause of the accident and the abnormal parameters, so as to improve the detection performance of the cause of the accident.
 
 * **Evaluation and Improvement of UAV Operator’s Maneuverability**  
   * **Field** : Machine Learning
 
   * **Details** : 
-    * Using Python to crawl user flight log data and perform data preprocessing, including data cleaning, outlier
-processing and data visualization. 
+    * Using Python to crawl user flight log data and perform data preprocessing, including data cleaning, outlier processing and data visualization. 
     * Perform Ant colony algorithm to obtain the optimal flight path for the given flight area. 
-    * Utilizing the obtained features 
-from the feature engineering, a GBDT model is performed to evaluate pilots’s flight ability.
+    * Utilizing the obtained features  from the feature engineering, a GBDT model is performed to evaluate pilots’s flight ability.
 
 * **Supply Chain Revenue Management System**  
   * **Field** : Deep Learning, Optimization Methods
 
   * **Details** : 
-    * Implementing optimization method to reduce supply chain cost, select better offline warehouse address and
-reduce company operation cost. 
+    * Implementing optimization method to reduce supply chain cost, select better offline warehouse address and reduce company operation cost. 
     * Using the deep learning model to predict the offline customers’ purchasing situation to reduce storage costs.
 
 * **Stock Market Forecasting and Consumer Credit Modeling**  
   * **Field** : Deep Learning, Machine Learning
 
   * **Details** : 
-    * Analysis of stock market trends. Based on the business knowledge of financial experts and stock market experts,
-and combined with LSTM algorithm, a stock market rise and fall prediction model is established. 
-    * Combining market information, user personal information and user consumption situations to establish a credit
-model.
+    * Analysis of stock market trends. Based on the business knowledge of financial experts and stock market experts, and combined with LSTM algorithm, a stock market rise and fall prediction model is established. 
+    * Combining market information, user personal information and user consumption situations to establish a credit model.
