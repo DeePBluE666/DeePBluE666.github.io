@@ -26,10 +26,10 @@ several papers on AI and other related topics in different journals and conferen
 
 Contact with me
 ------
-E-mail: deepblue.lb@gmail.com 
+**E-mail**: deepblue.lb@gmail.com  /  710271861@qq.com 
 
-Zhihu: [click_here](https://www.zhihu.com/people/bob-8-99-69/activities)
+**Zhihu**: [click here to my Zhihu Homepage](https://www.zhihu.com/people/bob-8-99-69/activities)
 
-Kaggle: [click_here](https://www.kaggle.com/buptbob)
+**Kaggle**: [click here to my Kaggle Homepage](https://www.kaggle.com/buptbob)
 
-Tianchi: [click_here](https://tianchi.aliyun.com/home/science/scienceDetail?spm=5176.12922503.0.0.2b5b2c8eC8HI99&userId=1095279125639)
+**Tianchi**: [click here to my Tianchi Homepage](https://tianchi.aliyun.com/home/science/scienceDetail?spm=5176.12922503.0.0.2b5b2c8eC8HI99&userId=1095279125639)
