@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download Resume Here [Chinese version ]((http://deepblue666.github.io/files/Resume_CN.pdf) ) [English Version ](http://deepblue666.github.io/files/Resume_EN.pdf) 
+
 Education
 ======
 * **Research Intern** [Peking University](https://www.pku.edu.cn/)   June, 2018 - Now
