@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "Sinkiang, China"
 ---
 
-**Breaf Introduction**: Training Course for Industrial and Commercial Bank of China (ICBC) about Data Science and Data Mining for 3 days:
+**Breaf Introduction**: Training Course for Industrial and Commercial Bank of China (ICBC) about Data Science and Data Mining for 3 days.
 
 **Day 1**: Data Science, Data Mining and Usage of Python.
 
