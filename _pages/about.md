@@ -11,7 +11,7 @@ redirect_from:
 Hi! I'm Bo Li, a graduate student at **Beijing University of Posts and Telecommunications** in Beijing, China. I majored in Information Processing and Data Mining. 
 I'm now a research intern at National Engineering Research Center for Software Engineering at **Peking University**. 
 
-I'm interested in **Data Science** and **Artificial Intelligence (AI)** technology, especially **Machine Learning (ML)** and **Deep Learning (DL)**. I am currently working on **Natural 
+I'm interested in **Data Science** and **Artificial Intelligence (AI)** technology, especially **Deep Learning (DL)**. I am currently working on **Natural 
 Language Processing (NLP)** and **Reinforcement Learning (RL)**.
 
 Most of my previous work has been on the applications of machine learning and deep learning methods, I've been worked for many internet companies, and won top3 awards
@@ -22,6 +22,7 @@ Since 2018, I paid more attention to my research as I become interested in build
 several papers on AI and other related topics in different journals and conferences. 
 [**More details can be found in Publications.**](https://deepblue666.github.io//publications/)
 
-Feel free to contact with me
+Contact with me
 ------
 E-mail: deepblue.lb@gmail.com 
+Zhihu: [click_here](https://www.zhihu.com/people/bob-8-99-69/activities)
