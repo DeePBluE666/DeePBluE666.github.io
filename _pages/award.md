@@ -1,6 +1,6 @@
 ---
 permalink: /award/
-title: "Full Awards List"
+title: "Full Award List"
 author_profile: true
 redirect_from: 
   - /md/
@@ -140,5 +140,29 @@ redirect_from:
 * **Daguan Cup: Long Sentence Classification Challenge** 
   * Field: Deep Learning and Natural Language Processing
   * Rank: 3/4878
+  * Details: 
+    * To Be Continue
+	
+* **Kaggle: Favorita Grocery Sales Forecasting** 
+  * Field: Machine Learning and Data Mining
+  * Rank: 23/1675(Silver Medal)
+  * Details: 
+    * To Be Continue
+	
+* **Kaggle: Talking data Adtracking Fraud Detection** 
+  * Field: Machine Learning, Deep Learning and Data Mining
+  * Rank: 36/3951(Silver Medal)
+  * Details: 
+    * To Be Continue
+	
+* **Kaggle: Society Camera Model Identification** 
+  * Field: Deep Learning and Computer Vision
+  * Rank: 42/582(Silver Medal)
+  * Details: 
+    * To Be Continue
+	
+* **Kaggle: Avito Demand Prediction** 
+  * Field: Machine Learning and Data Mining
+  * Rank: 60/1873(Silver Medal)
   * Details: 
     * To Be Continue

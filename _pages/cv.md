@@ -84,4 +84,4 @@ Awards(Part)
   
 * Tianchi： Medical Knowledge Graph Challenge - 2/1029
 
-[**View Full Awards List**](https://deepblue666.github.io//award/)
+[**View Full Award List**](https://deepblue666.github.io//award/)
