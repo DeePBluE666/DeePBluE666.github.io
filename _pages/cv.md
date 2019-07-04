@@ -80,8 +80,8 @@ Awards(Part)
   
 * KDD2018： Weather Prediction - 5/5024(Top 0.1%)
   
-* Kaggle:  TGS Salt Identification Challenge - 10/3234(Gold Medal)
+* Kaggle： TGS Salt Identification Challenge - 10/3234(Gold Medal)
   
-* Tianchi:  Medical Knowledge Graph Challenge - 2/1029
+* Tianchi： Medical Knowledge Graph Challenge - 2/1029
 
-[**More Details**](https://deepblue666.github.io//award/)
+[**View Full Awards List**](https://deepblue666.github.io//award/)

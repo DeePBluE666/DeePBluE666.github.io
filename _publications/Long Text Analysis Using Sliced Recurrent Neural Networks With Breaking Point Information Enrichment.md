@@ -29,6 +29,9 @@ BPIE-BiSRNN, to utilize the dependency information in not only the previous but 
 demonstrate that the BPIE-SRNN and BPIE-BiSRNN models always achieve a much better accuracy than SRNNs and BiSRNNs, while maintaining a superior training effificiency. 
 
 
+**Authors** : **Bo Li**^‚ Zehua Cheng^‚ Zhenghua Xu‚ Wei Ye‚ Thomas Lukasiewicz and Shikun Zhang. (^indicates co-first author)
+
+
 **Paper Download**
 
 

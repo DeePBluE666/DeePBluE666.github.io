@@ -30,6 +30,9 @@ silent speech interface challenge. A Word Error Rate of 6.17% is obtained with D
 as the feature extractor. 
 
 
+**Authors** : **Bo Li**, Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu
+
+
 **Paper Download**
 
 

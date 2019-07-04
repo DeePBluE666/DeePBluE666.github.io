@@ -31,6 +31,9 @@ learning. And, our approach employs partly shared model to protect the privacy. 
 short-text matching task. Results demonstrate the effectiveness of the proposed method.
 
 
+**Authors** : **Bo Li**, Kele Xu, Haibo Mi, Dawei Feng, Huaimin Wang and Yanbo J. Wang
+
+
 **Paper Download**
 
 
