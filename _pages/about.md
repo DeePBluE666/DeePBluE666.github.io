@@ -16,7 +16,7 @@ Language Processing (NLP)** and **Reinforcement Learning (RL)**.
 
 Most of my previous work focuses on the applications of machine learning and deep learning methods, I've been working for many internet companies, 
 participated in some projects, [**More details can be found in Projects.**](https://deepblue666.github.io//project/) and won top3 awards
-in many data science competitions. I'm also a Competition Master at Kaggle and data scientist at Tianchi (rank 89/44392). 
+in many data science competitions. I'm also a Kaggle Competition Master and data scientist at Tianchi (rank 89/44392). 
 [**More details can be found in Awards.**](https://deepblue666.github.io//award/)
 
 Since 2018, I paid more attention to my research as I became interested in building new models and proposing some new methods in ML and DL. I've published 

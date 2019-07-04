@@ -19,7 +19,7 @@ redirect_from:
 
 >**Part2: Competition Awards** 
 
-* **22. CIKM AnalytiCup 2018:  Cross-Language Short Text Matching**
+* **21. CIKM AnalytiCup 2018:  Cross-Language Short Text Matching**
   * Field: Deep Learning and Natural Language Processing
   * Rank: 3/1027
   * Details: 
@@ -28,7 +28,7 @@ redirect_from:
     * Building a multi-task learning model, to process Spanish and English at the same time. The performance of semantic similarity judgment is significant improved by partially sharing parameters and LSTM layer.
 
 	
-* **21. IJCAI 2018:  Click Transformation Rate Prediction**
+* **20. IJCAI 2018:  Click Transformation Rate Prediction**
   * Field: Machine Learning and Data Mining 
   * Rank: 5/5024(Top 0.1%)
   * Details: 
@@ -37,7 +37,7 @@ redirect_from:
     * Perform transfer learning to predict the results of the above models are taken as the features of the promotional day, to significant improves the performance of the models.	
 	
 
-* **20. KDD2018:  Weather Prediction**
+* **19. KDD2018:  Weather Prediction**
   * Field: Deep Learning and Data Mining 
   * Rank: 7/4170(Top 0.2%)
   * Details: 
@@ -45,22 +45,13 @@ redirect_from:
     * Using LSTM and CapsuleNet hybrid model and stacking ensemble model to build a weather forecasting system.	
 
 
-* **19. Kaggle:  TGS Salt Identification Challenge**
+* **18. Kaggle:  TGS Salt Identification Challenge**
   * Field: Deep Learning and Computer Vision 
   * Rank: 10/3234(Gold Medal)
   * Details: 
 	* The context require to build an algorithm that automatically and accurately identifies if a subsurface target is salt.
     * Using different data argumentation techniques.	
 	* Built a U-net with ResNet Blocks model to solve the problem.
-
-* **18. Tianchi:  Medical Knowledge Graph Challenge**
-  * Field: Deep Learning and Natural Language Processing 
-  * Rank: 2/1029
-  * Details: 
-	* The context given a large number of corpus in medical field and require the contestants to build the knowledge graph, obtains the entities from the corpus, and extracts the relationship between entities.
-    * Established a joint training model of entity recognition and relation extraction to solved simultaneously.	
-	* The BIO information of entities is introduced to the relation extraction model, which greatly improves the performance of the model.	
-	* Obtain dynamic entity vectors through entity vector pre-training model, similar to language model.
 
 * **17. Tianchi:  Medical Knowledge Graph Challenge**
   * Field: Deep Learning and Natural Language Processing 
