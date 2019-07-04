@@ -1,6 +1,6 @@
 ---
 permalink: /photos/
-title: "Markdown"
+title: "Photos"
 author_profile: true
 redirect_from: 
   - /md/
