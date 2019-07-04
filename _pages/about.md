@@ -14,7 +14,8 @@ I'm now a research intern at National Engineering Research Center for Software E
 I'm interested in **Data Science** and **Artificial Intelligence (AI)** technology, especially **Deep Learning (DL)**. I am currently working on **Natural 
 Language Processing (NLP)** and **Reinforcement Learning (RL)**.
 
-Most of my previous work has been on the applications of machine learning and deep learning methods, I've been worked for many internet companies, and won top3 awards
+Most of my previous work focuses on the applications of machine learning and deep learning methods, I've been worked for many internet companies, 
+participated in some projects[**More details can be found in Awards.**](https://deepblue666.github.io//project/), and won top3 awards
 in many data science competitions. I'm also a Competition Master at Kaggle and data scientist at Tianchi (rank 89/44392). 
 [**More details can be found in Awards.**](https://deepblue666.github.io//award/)
 
@@ -25,4 +26,5 @@ several papers on AI and other related topics in different journals and conferen
 Contact with me
 ------
 E-mail: deepblue.lb@gmail.com 
+
 Zhihu: [click_here](https://www.zhihu.com/people/bob-8-99-69/activities)
