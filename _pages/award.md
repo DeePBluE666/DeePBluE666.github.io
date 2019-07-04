@@ -12,12 +12,12 @@ redirect_from:
 
 ###  National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018
 
-###  Competition Master at Kaggle
+###  Kaggle Competition Master
 
 ###  Excellent Undergraduate Thesis of University of Jinan
 
 
->**Part2: Competition Awards** (Random Sort)
+>**Part2: Competition Awards** 
 
 * **22. CIKM AnalytiCup 2018:  Cross-Language Short Text Matching**
   * Field: Deep Learning and Natural Language Processing
