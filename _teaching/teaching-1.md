@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience 1"
 collection: teaching
 type: "Training Course About Data Science and Data Mining"
 permalink: /teaching/teaching-1
