@@ -21,7 +21,7 @@ date: August 15, 2018
 venue: '2018 Fourteenth International Conference on Intelligent Computing (ICIC2018)'
 
 ---
-**Abstrcat**
+**Abstract**
 
 Electricity theft detection issue has drawn lots of attention during last decades. Timely identification of the electricity theft in the power system is crucial for 
 the safety and availability of the system. Although sustainable efforts have been made, the detection task remains challenging and falls short of accuracy and 

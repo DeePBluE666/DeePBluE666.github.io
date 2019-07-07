@@ -20,7 +20,7 @@ date: May 12, 2019
 venue: 'Proceedings of the 2019 IEEE International Conference on Acoustics‚ Speech and Signal Processing (ICASSP2019)'
 
 ---
-**Abstrcat**
+**Abstract**
 
 Sliced recurrent neural networks (SRNNs) are the state-of-the-art effificient solution for long text analysis tasks; however, their slicing operations inevitably result
 in long-term dependency loss in lower-level networks and thus limit their accuracy. Therefore, we propose a breaking point information enrichment mechanism to 

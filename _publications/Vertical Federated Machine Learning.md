@@ -21,7 +21,7 @@ venue: 'The 1st International Workshop on Federated Machine Learning for User Pr
 in conjunction with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19)'
 
 ---
-**Abstrcat**
+**Abstract**
 
 With the advert of IOT and the increasing usage of smart devices, the generated data has increased exponentially. The capacity of the machine learning approaches, 
 can be improved by using more high quality labeled data, which are often stored in independent devices. Most of the traditional machine learning approaches require 

@@ -20,7 +20,7 @@ date: May 12, 2019
 venue: 'Proceedings of the 2019 IEEE International Conference on Acoustics‚ Speech and Signal Processing (ICASSP2019)'
 
 ---
-**Abstrcat**
+**Abstract**
 
 B-mode ultrasound tongue imaging is widely used in the speech production field. However, efficient interpretation is in a great need for the tongue image sequences. 
 Inspired by the recent success of unsupervised deep learning approach, we explore unsupervised convolutional network architecture for the feature extraction in the 
