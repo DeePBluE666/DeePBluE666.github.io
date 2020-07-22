@@ -7,6 +7,6 @@ redirect_from:
   - /photos.html
 ---
 
-## To be continue...
+## 404...
 
 
