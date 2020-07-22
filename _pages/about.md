@@ -24,10 +24,12 @@ My Resume is available [here](https://deepblue666.github.io//cv/)
 
 Contact with me
 ------
-**E-mail**: deepblue.lb@gmail.com  /  710271861@qq.com 
+**E-mail**: deepblue.lb@gmail.com  
 
 **Zhihu**: [Jump to My Zhihu Homepage](https://www.zhihu.com/people/bob-8-99-69/activities)
 
 **Kaggle**: [Jump to My Kaggle Homepage](https://www.kaggle.com/buptbob)
 
 **Tianchi**: [Jump to My Tianchi Homepage](https://tianchi.aliyun.com/home/science/scienceDetail?spm=5176.12922503.0.0.2b5b2c8eC8HI99&userId=1095279125639)
+
+**The Knowledge Computing Group at Peking University**: [Jump to Our Research Group](https://se.pku.edu.cn/kcg/)
