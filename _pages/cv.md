@@ -17,7 +17,7 @@ Download Resume Here
 
 Education
 ======
-* **PhD Student** [Peking University](https://www.pku.edu.cn/)   September，2020 - Now
+* **PhD Student** [Peking University](https://www.pku.edu.cn/)    September，2020 - Now
 
 
 	- Konwledge Computing and Natural Language Processing
