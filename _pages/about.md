@@ -10,8 +10,8 @@ redirect_from:
 
 Hi! I'm Bo Li, a PhD student at National Engineering Research Center for Software Engineering at **Peking University** in Beijing, China. I majored in Knowledge Computing and Information Processing. I'm interested in **Data Science** and **Artificial Intelligence (AI)** technology, especially **Deep Learning (DL)**. I am currently working on **Natural Language Processing (NLP)**.
 
-Since 2018, I paid more attention to my research as I became interested in building new models and proposing some new methods in ML and DL. I've published 
-several papers on AI and other related topics in different journals and conferences. 
+Since 2018, I paid lots of attention to my research as I became interested in building new models and proposing some new methods in DL. I've published 
+several papers on NLP and other related topics in different journals and conferences. 
 [**More details can be found in Publications.**](https://deepblue666.github.io//publications/)
 
 Beseide, some of my previous work focuses on the applications of machine learning and deep learning methods, I've worked for many internet companies, 

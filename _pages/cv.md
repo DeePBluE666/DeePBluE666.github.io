@@ -17,10 +17,10 @@ Download Resume Here
 
 Education
 ======
-* **Research Intern** [Peking University](https://www.pku.edu.cn/)   June, 2018 - Now
+* **PhD Student** [Peking University](https://www.pku.edu.cn/)   September，2020 - Now
 
 
-  - Deep Leanring and Natural Language Processing
+	- Konwledge Computing and Natural Language Processing
 * **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)   September， 2016 - June, 2019 
 
 
@@ -58,6 +58,11 @@ Project Experience
 
 Work Experience
 ======
+* **Research Intern** 
+  * June, 2018 - September，2020
+  * Deep Leanring and Natural Language Processing
+
+
 * **CortexLabs.ai**   
   * March, 2018 - September, 2018
   * Deep Learning Engnieer
