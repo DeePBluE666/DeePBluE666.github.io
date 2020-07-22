@@ -18,6 +18,8 @@ redirect_from:
 
 
 >**Part2: Competition Awards** 
+
+
 * **22. China Computer Federation(CCF): Big Data & Computing Intelligence Contest 2019(BDCI)  Sentiment Analysis Of Internet News, 2019**
   * Field: Deep Learning and Natural Language Processing 
   * Rank: 3/2754
