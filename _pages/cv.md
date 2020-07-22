@@ -58,9 +58,9 @@ Project Experience
 
 Work Experience
 ======
-* **Research Intern** 
+* **Peking University**
   * June, 2018 - September，2020
-  * Deep Leanring and Natural Language Processing
+  * Research Intern
 
 
 * **CortexLabs.ai**   
