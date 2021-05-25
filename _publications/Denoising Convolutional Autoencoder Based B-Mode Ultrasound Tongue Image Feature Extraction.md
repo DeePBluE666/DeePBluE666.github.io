@@ -10,7 +10,7 @@ convolutional network architecture for the feature extraction in the ultrasound 
 **Authors** : **Bo Li**, Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu
 
 
-**Place** : Brighton‚ UK
+**Place** : Brighton‚ UKaaaaaaaaaaaaaaaaaaa
 
 
 **Date** : May 12th−17th, 2019
