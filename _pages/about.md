@@ -32,9 +32,10 @@ Tong Zhang, Long Zhang, Wei Ye^, **Bo Li**, Jinan Sun, Shikun Zhang^, Xiaoyu Zhu
 Wei Ye^', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.  In ACL 2019.
 
 * **Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment**  
-**Bo Li**; Zehua Cheng; Zhenghua Xu; Wei Ye; Thomas Lukasiewicz; Shikun Zhang. In ICASSP 2019.
+**Bo Li**, Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang. In ICASSP 2019.
 
-
+* **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Xxtraction.**
+**Bo Li**, Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu. In ICASSP 2019.
 **Awards and Honors**
 ------
 
