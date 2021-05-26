@@ -29,13 +29,26 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ***Bo Li***,*Zhonghao Sheng, Wei Ye^, Jinglei Zhang, Kai Liu and Shikun Zhang.* ***IJCNN 2020.***
 
 * **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data**  
-*Wei Ye^', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* *** ACL 2019.***
+*Wei Ye^', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* ***ACL 2019.***
 
 * **Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment**  
 ***Bo Li***, *Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang.* ***ICASSP 2019.***
 
 * **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Extraction**  
 ***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019.***
+
+* **Meta learning based audio tagging**  
+*Kele Xu, Boqing Zhu, Dezhi Wang, Yuxing Peng, Huaimin Wang, Lilun Zhang,* ***Bo Li.*** ***DCASE 2018***
+
+* **Environmental Sound Classification based on Multi-temporal Resolution Convolutional Neural Network Combining with Multi-level Features**
+*Boqing Zhu, Kele Xu, Dezhi Wang, Lilun Zhang, **Bo Li**, Yuxing Peng.* ***PRCM 2018***
+
+* **Multi-scale DenseNet-based Electricity Theft Detection**
+***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018***
+
+* **Environmental Sound Classification based on Multi-temporal Resolution CNN Network Combining with Multi-level features**
+*Boqing Zhu, Kele Xu, Dezhi Wang, Lilun Zhang, **Bo Li**, Yuxing Peng.* ***arXiv***
+
 
 
 **Awards and Honors**
