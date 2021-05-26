@@ -7,18 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-
+------
 Hi! I'm Bo Li, a PhD student (Sep. 2020 - Present) at [**The Knowledge Computing Group, Peking University]**](https://se.pku.edu.cn/kcg/) in Beijing, China. I majored in Knowledge Computing and Information Processing. 
 
->**Interests:** Natural Language Processing, Information Extraction, Knowledeg Graph, Text Classification, Long Text Understanding, Data Augmentation. 
+**Interests:** 
+------
+Natural Language Processing, Information Extraction, Knowledeg Graph, Text Classification, Long Text Understanding, Data Augmentation. 
 
->**Publications**
-* Tong Zhang, Long Zhang, Wei Ye^, **Bo Li**, Jinan Sun, Shikun Zhang^, Xiaoyu Zhu and Wen Zhao. Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation. In ACL 2021 
+**Publications**
+------
+* **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation.** Tong Zhang, Long Zhang, Wei Ye^, **Bo Li**, Jinan Sun, Shikun Zhang^, Xiaoyu Zhu and Wen Zhao. In ACL 2021 
 
+* 
+**Awards and Honors**
+------
 
->**Awards and Honors**
-
->**Experience**
+**Experience**
+------
 
 **
 
