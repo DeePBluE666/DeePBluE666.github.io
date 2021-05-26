@@ -40,13 +40,13 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **Meta learning based audio tagging**  
 *Kele Xu, Boqing Zhu, Dezhi Wang, Yuxing Peng, Huaimin Wang, Lilun Zhang,* ***Bo Li.*** ***DCASE 2018***
 
-* **Environmental Sound Classification based on Multi-temporal Resolution Convolutional Neural Network Combining with Multi-level Features**
+* **Environmental Sound Classification based on Multi-temporal Resolution Convolutional Neural Network Combining with Multi-level Features** 
 *Boqing Zhu, Kele Xu, Dezhi Wang, Lilun Zhang, **Bo Li**, Yuxing Peng.* ***PRCM 2018***
 
-* **Multi-scale DenseNet-based Electricity Theft Detection**
+* **Multi-scale DenseNet-based Electricity Theft Detection** 
 ***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018***
 
-* **Environmental Sound Classification based on Multi-temporal Resolution CNN Network Combining with Multi-level features**
+* **Environmental Sound Classification based on Multi-temporal Resolution CNN Network Combining with Multi-level features** 
 *Boqing Zhu, Kele Xu, Dezhi Wang, Lilun Zhang, **Bo Li**, Yuxing Peng.* ***arXiv***
 
 
