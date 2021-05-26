@@ -26,16 +26,16 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ***Bo Li***, *Wei Ye^, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang.* ***COLING 2020.***
 
 * **Sliding Hierarchical Recurrent Neural Networks for Sequence Classification**  
-**Bo Li**, Zhonghao Sheng, Wei Ye^, Jinglei Zhang, Kai Liu and Shikun Zhang. venue: IJCNN 2020.
+***Bo Li***,*Zhonghao Sheng, Wei Ye^, Jinglei Zhang, Kai Liu and Shikun Zhang.* ***IJCNN 2020.***
 
 * **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data**  
-Wei Ye^', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.  venue: ACL 2019.
+*Wei Ye^', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* *** ACL 2019.***
 
 * **Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment**  
-**Bo Li**, Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang. venue: ICASSP 2019.
+***Bo Li***, *Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang.* ***ICASSP 2019.***
 
 * **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Extraction**  
-**Bo Li**, Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu. venue: ICASSP 2019.
+***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019.***
 
 
 **Awards and Honors**
