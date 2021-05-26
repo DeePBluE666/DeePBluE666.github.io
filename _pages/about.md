@@ -17,25 +17,25 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 **Publications**
 ------
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
-Tong Zhang, Long Zhang, Wei Ye^, **Bo Li**, Jinan Sun, Shikun Zhang^, Xiaoyu Zhu and Wen Zhao. In ACL 2021. 
+Tong Zhang, Long Zhang, Wei Ye^, **Bo Li**, Jinan Sun, Shikun Zhang^, Xiaoyu Zhu and Wen Zhao. venue: ACL 2021. 
 
 * **Multi-view Inference for Relation Extraction with Uncertain Knowledge**  
-**Bo Li**, Wei Ye^, Canming Huang and Shikun Zhang. In AAAI 2021.
+**Bo Li**, Wei Ye^, Canming Huang and Shikun Zhang. venue: AAAI 2021.
 
 * **Graph Enhanced Dual Attention Network for Document-Level Relation Extraction**  
-**Bo Li**, Wei Ye^, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang. In COLING 2020.
+**Bo Li**, Wei Ye^, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang. venue: COLING 2020.
 
 * **Sliding Hierarchical Recurrent Neural Networks for Sequence Classification**  
-**Bo Li**, Zhonghao Sheng, Wei Ye^, Jinglei Zhang, Kai Liu and Shikun Zhang. In IJCNN 2020.
+**Bo Li**, Zhonghao Sheng, Wei Ye^, Jinglei Zhang, Kai Liu and Shikun Zhang. venue: IJCNN 2020.
 
 * **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data**  
-Wei Ye^', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.  In ACL 2019.
+Wei Ye^', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.  venue: ACL 2019.
 
 * **Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment**  
-**Bo Li**, Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang. In ICASSP 2019.
+**Bo Li**, Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang. venue: ICASSP 2019.
 
 * **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Extraction**  
-**Bo Li**, Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu. In ICASSP 2019.
+**Bo Li**, Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu. venue: ICASSP 2019.
 
 
 **Awards and Honors**
