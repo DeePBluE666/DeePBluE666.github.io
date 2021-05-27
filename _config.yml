@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Bo Li"
   avatar           : "https://DeePBluE666.github.io/images/dog.jpg"
-  bio              : "There is only one me in this world"
+  bio              : 
   location         : "Beijing China"
-  employer         :
+  employer         : KCG Group, Peking University
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=Ax94a5YAAAAJ&hl=zh-CN
   email            : deepblue.lb@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : https://www.researchgate.net/profile/Bo-Li-317
   uri              :
   bitbucket        :
   codepen          :

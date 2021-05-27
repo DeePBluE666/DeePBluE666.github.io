@@ -41,10 +41,10 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **Meta learning based audio tagging**  
 *Kele Xu, Boqing Zhu, Dezhi Wang, Yuxing Peng, Huaimin Wang, Lilun Zhang,* ***Bo Li.*** ***DCASE 2018*** [[paper]](http://dcase.community/documents/workshop2018/proceedings/DCASE2018Workshop_Xu_147.pdf)
 
-* **Environmental Sound Classification based on Multi-temporal Resolution Convolutional Neural Network Combining with Multi-level Features** 
+* **Environmental Sound Classification based on Multi-temporal Resolution Convolutional Neural Network Combining with Multi-level Features**  
 *Boqing Zhu, Kele Xu, Dezhi Wang, Lilun Zhang, **Bo Li**, Yuxing Peng.* ***PRCM 2018*** [[paper]](https://arxiv.org/abs/1805.09752)
 
-* **Multi-scale DenseNet-based Electricity Theft Detection** 
+* **Multi-scale DenseNet-based Electricity Theft Detection**  
 ***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
 
 * **Environmental Sound Classification based on Multi-temporal Resolution CNN Network Combining with Multi-level features** 
@@ -55,10 +55,24 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 **Awards and Honors**
 ------
 
-**Experience**
+**Working Experience**
 ------
+* **Peking University**
+  * June, 2018 - September，2020
+  * Research Intern
 
-**
+
+* **CortexLabs.ai**   
+  * March, 2018 - September, 2018
+  * Deep Learning Engnieer
+
+* **Dept. Fintech - JD Finance**   
+  * September, 2017 - January, 2018
+  * Technical Adviser
+
+* **Y Group - JD.com**   
+  * June, 2017 - September, 2017
+  * Research Engineer
 
 
 Contact with me
