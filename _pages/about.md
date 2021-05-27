@@ -54,29 +54,29 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Awards and Honors**
 ------
-* National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018  
+* **National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications in 2018**  
 
-* Excellent Undergraduate Thesis of University of Jinan  
+* **Excellent Undergraduate Thesis of University of Jinan**  
 
-* **China Computer Federation(CCF): Big Data & Computing Intelligence Contest 2019(BDCI)  Sentiment Analysis Of Internet News, 2019**  **Rank: 3/2754**  
+* **China Computer Federation(CCF): Big Data & Computing Intelligence Contest 2019(BDCI)  Sentiment Analysis Of Internet News, 2019.**  *Rank:* **3/2754**  
 
-* **CIKM AnalytiCup 2018:  Cross-Language Short Text Matching**  **Rank: 3/1027**
+* **CIKM AnalytiCup 2018:  Cross-Language Short Text Matching.**  *Rank:* **3/1027**
 
-* **IJCAI 2018:  Click Transformation Rate Prediction**  **Rank: 5/5024**
+* **IJCAI 2018:  Click Transformation Rate Prediction.**  *Rank:* **5/5024**
 
-* **KDD2018:  Weather Prediction**  **Rank: 7/4170**
+* **KDD2018:  Weather Prediction.**  *Rank:* **7/4170**
 
-* **Tianchi:  Medical Knowledge Graph Challenge**  **Rank: 2/1029**
+* **Tianchi:  Medical Knowledge Graph Challenge.**  *Rank:* **2/1029**
 
-* **China Computer Federation(CCF)： Big Data & Computing Intelligence Contest 2017(BDCI) Optimization of Supermarket Supply and Marketing**  **Rank: 1/706**
+* **China Computer Federation(CCF)： Big Data & Computing Intelligence Contest 2017(BDCI) Optimization of Supermarket Supply and Marketing.**  *Rank:* **1/706**
 
-* **China Computer Federation(CCF)： Big Data & Computing Intelligence Contest 2017(BDCI) Business Operation Exit Risk Forecasting**  **Rank: 2/507**
+* **China Computer Federation(CCF)： Big Data & Computing Intelligence Contest 2017(BDCI) Business Operation Exit Risk Forecasting.**  *Rank:* **2/507**
 
-* **China Mobile: 4G User Churn Prediction**   **Rank: 1/126**
+* **China Mobile: 4G User Churn Prediction.**   *Rank:* **1/126**
 
-* **ppdai Mirror Cup: Text Matching Challenge**   **Rank: 2/576**
+* **ppdai Mirror Cup: Text Matching Challenge.**   *Rank:* **2/576**
 
-* **Kaggle:  TGS Salt Identification Challenge**  **Rank: 10/3234(Gold Medal)**
+* **Kaggle:  TGS Salt Identification Challenge.**  *Rank:* **10/3234(Gold Medal)**
 
 **Working Experience**
 ------
@@ -109,10 +109,6 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ------
 **E-mail**: deepblue.lb@gmail.com  
 
-#**Zhihu**: [My Zhihu Homepage](https://www.zhihu.com/people/bob-8-99-69/activities)
-
 **Kaggle**: [My Kaggle Homepage](https://www.kaggle.com/buptbob)
-
-#**Tianchi**: [My Tianchi Homepage](https://tianchi.aliyun.com/home/science/scienceDetail?spm=5176.12922503.0.0.2b5b2c8eC8HI99&userId=1095279125639)
 
 **The Knowledge Computing Group at Peking University**: [Our Research Group](https://se.pku.edu.cn/kcg/)
