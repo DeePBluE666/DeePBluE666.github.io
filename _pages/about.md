@@ -18,7 +18,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 **Publications**
 ------
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
-*Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, Long Paper.***
+*Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, Long Paper.*** [[paper]](https://www.researchgate.net/publication/351993206_Point_Disambiguate_and_Copy_Incorporating_Bilingual_Dictionaries_for_Neural_Machine_Translation#fullTextFileContent)
 
 * **Multi-view Inference for Relation Extraction with Uncertain Knowledge**  
 ***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, Long Paper.*** [[paper]](https://arxiv.org/abs/2104.13579)
