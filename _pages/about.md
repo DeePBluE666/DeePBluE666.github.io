@@ -104,7 +104,13 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
   - Control Science & Engineering - Information Processing and Data Mining,  
 * **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/)   September, 2010 - July, 2014  
   - Control Science & Engineering 
-  
+ 
+ 
+**Working Experience**
+------
+* **Program Committee (PC) Member**: WWW2020, EMNLP2021
+
+
 **Contact with me**
 ------
 **E-mail**: deepblue.lb@gmail.com  
