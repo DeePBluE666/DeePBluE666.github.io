@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-Hi! I'm **Bo Li (李博)**, a PhD student (Sep. 2020 - Present) at [**The Knowledge Computing Group**](https://se.pku.edu.cn/kcg/) , **Peking University** in Beijing, China. 
+Hi! I'm **Bo Li (李博)**, a Ph.D. student (Sep. 2020 - Present) at [**The Knowledge Computing Group**](https://se.pku.edu.cn/kcg/) , **Peking University** in Beijing, China. 
 My majore is Knowledge Computing and Information Processing. 
 
 **Interests:** 
