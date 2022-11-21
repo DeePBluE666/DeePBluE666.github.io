@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bo Li's HomePage"
+title: "Bo Li · HomePage"
 author_profile: true
 redirect_from: 
   - /about/
