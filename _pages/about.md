@@ -18,23 +18,23 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 **Selected publications**
 ------
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
-***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Long Paper.*** [[paper]]()
+***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
 * **Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction**  
-***Bo Li***, *Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Long Paper.*** [[paper]]()
+***Bo Li***, *Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
-*Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, CCF Rank A, Long Paper.*** [[paper]](https://aclanthology.org/2021.acl-long.307/)
+*Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, CCF Rank A, Full Paper.*** [[paper]](https://aclanthology.org/2021.acl-long.307/)
 * **Multi-view Inference for Relation Extraction with Uncertain Knowledge**  
-***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, CCF Rank A, Long Paper.*** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17563)
+***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, CCF Rank A, Full Paper.*** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17563)
 * **Graph Enhanced Dual Attention Network for Document-Level Relation Extraction**  
-***Bo Li***, *Wei Ye, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang.* ***COLING 2020, CCF Rank B, Long Paper.*** [[paper]](https://www.aclweb.org/anthology/2020.coling-main.136/)
+***Bo Li***, *Wei Ye, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang.* ***COLING 2020, CCF Rank B, Full Paper.*** [[paper]](https://www.aclweb.org/anthology/2020.coling-main.136/)
 * **Sliding Hierarchical Recurrent Neural Networks for Sequence Classification**  
-***Bo Li***,*Zhonghao Sheng, Wei Ye, Jinglei Zhang, Kai Liu and Shikun Zhang.* ***IJCNN 2020, CCF Rank C, Long Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/9207626)
+***Bo Li***,*Zhonghao Sheng, Wei Ye, Jinglei Zhang, Kai Liu and Shikun Zhang.* ***IJCNN 2020, CCF Rank C, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/9207626)
 * **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data**  
-*Wei Ye', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* ***ACL 2019, CCF Rank A, Long Paper.*** [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf)
+*Wei Ye', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* ***ACL 2019, CCF Rank A, Full Paper.*** [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf)
 * **Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment**  
-***Bo Li***, *Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang.* ***ICASSP 2019, CCF Rank B, Long Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8683812)
+***Bo Li***, *Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang.* ***ICASSP 2019, CCF Rank B, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8683812)
 * **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Extraction**  
-***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019, CCF Rank B, Long Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8682806)
+***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019, CCF Rank B, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8682806)
 * **Multi-scale DenseNet-based Electricity Theft Detection**  
 ***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018.*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
 
