@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-<font face = 'Times New Roman'>Hi! I'm **Bo Li (李博)**, a Ph.D. student (Sep. 2020 - Present) at [**The Knowledge Computing Group**](https://se.pku.edu.cn/kcg/) , **Peking University** in Beijing, China, advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/) and Prof. Shikun Zhang.
+Hi! I'm **Bo Li (李博)**, a Ph.D. student (Sep. 2020 - Present) at [**The Knowledge Computing Group**](https://se.pku.edu.cn/kcg/) , **Peking University** in Beijing, China, advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/) and Prof. Shikun Zhang.
 My majore is Knowledge Computing and Information Processing. 
 
 **Interests:** 
@@ -76,4 +76,4 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Contact with me**
 ------
-**E-mail**: deepblue.lb@gmail.com  </font>
+**E-mail**: deepblue.lb@gmail.com
