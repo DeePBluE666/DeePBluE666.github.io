@@ -44,10 +44,10 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 > `Awards and Honors`
 ------
 
-* *`2021,`* `Huawei Scholarship, Peking University.`
-* *`2021,`* `Exceptional Award for Academic Innovation, Peking University.`
-* *`2018,`* `National Scholarship, Beijing University of Posts and Telecommunications.`
-* *`2014,`* `Excellent Undergraduate Thesis, University of Jinan.`
+* *2021,* Huawei Scholarship, Peking University.
+* *2021,* Exceptional Award for Academic Innovation, Peking University.
+* *2018,* National Scholarship, Beijing University of Posts and Telecommunications.
+* *2014,* Excellent Undergraduate Thesis, University of Jinan.
 
 > `Selected Competitions`
 ------
