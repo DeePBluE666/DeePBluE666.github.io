@@ -59,38 +59,20 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **ppdai Mirror Cup**: Text Matching Challenge.   ***Rank: 2/576***
 * **Kaggle**:  TGS Salt Identification Challenge.  ***Rank: 10/3234(Gold Medal)***
 
-**Working Experience**
+**Internship Experience**
 ------
-* **NLC Group - Microsoft Research Asia (MSRA)** 
-  * July, 2021 - January, 2022 
-  * Research Intern, advised by Xingxing Zhang and Furu Wei
-* **Peking University**
-  * June, 2018 - September, 2020
-  * Research Intern
-* **CortexLabs.ai**   
-  * March, 2018 - September, 2018
-  * Deep Learning Engnieer
-* **Dept. Fintech - JD Finance**   
-  * September, 2017 - January, 2018
-  * Technical Adviser
-# * **Y Group - JD.com**   
-#  * June, 2017 - September, 2017
-#  * Research Engineer
+* 2021.07 - 2023.01 Microsoft Research Asia (MSRA) - NLC Group, advised by Xingxing Zhang and Furu Wei
+* 2019.06 - 2022.09 Peking University - National Engineering Research Center For Software Enginering, advised by Prof. Wei Ye and Prof. Shikun Zhang.
 
 **Education**
 ------
-* **Ph.D. Student** [Peking University](https://www.pku.edu.cn/)    September, 2020 - Now  
-  - Konwledge Computing and Natural Language Processing
-* **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)   September, 2016 - June, 2019  
-  - Information Processing and Data Mining,  
-* **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/)   September, 2010 - July, 2014  
-  - Control Science & Control Engineering 
- 
+* 2022.09 - Now **Ph.D. Student** [Peking University](https://www.pku.edu.cn/) - Konwledge Computing and Natural Language Processing
+* 2016.09 - 2019.06 **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining,  
+* 2010.09 - 2014.06 **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering 
  
 **Academic Services**
 ------
 * **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023
-
 
 **Contact with me**
 ------
