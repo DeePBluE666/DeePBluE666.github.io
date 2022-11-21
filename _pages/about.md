@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-Hi! I'm **Bo Li (李博)**, a Ph.D. student (Sep. 2020 - Present) at [**The Knowledge Computing Group**](https://se.pku.edu.cn/kcg/) , **Peking University** in Beijing, China, advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/) and Prof. Shikun Zhang.
+<font, face = Times New Roman>Hi! I'm **Bo Li (李博)**, a Ph.D. student (Sep. 2020 - Present) at [**The Knowledge Computing Group**](https://se.pku.edu.cn/kcg/) , **Peking University** in Beijing, China, advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/) and Prof. Shikun Zhang.
 My majore is Knowledge Computing and Information Processing. 
 
 **Interests:** 
@@ -17,8 +17,8 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Selected Publications**
 ------
-* <font size = 10>**Sequence Generation with Label Augmentation for Relation Extraction**  
-***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()</font>
+* **Sequence Generation with Label Augmentation for Relation Extraction**  
+***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
 * **Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction**  
 ***Bo Li***, *Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
@@ -76,4 +76,4 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Contact with me**
 ------
-**E-mail**: deepblue.lb@gmail.com  
+**E-mail**: deepblue.lb@gmail.com  </font>
