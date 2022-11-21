@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Bo Li * HomePage"
+title                    : "Bo Li · HomePage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
