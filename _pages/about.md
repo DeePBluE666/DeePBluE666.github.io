@@ -11,11 +11,11 @@ redirect_from:
 Hi! I'm **Bo Li (李博)**, a Ph.D. student (Sep. 2020 - Present) at [**The Knowledge Computing Group**](https://se.pku.edu.cn/kcg/) , **Peking University** in Beijing, China, advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/) and Prof. Shikun Zhang.
 My majore is Knowledge Computing and Information Processing. 
 
-> **Interests:** 
+> `**Interests:**`
 ------
 Natural Language Processing, Information Extraction, Knowledeg Graph, Text Classification, Long Text Understanding, Data Augmentation. 
 
-> **Selected Publications**
+> `**Selected Publications**`
 ------
 
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
@@ -40,7 +40,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018.*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
 
 
-> **Awards and Honors**
+> `**Awards and Honors**`
 ------
 
 * *2021,* Huawei Scholarship, Peking University.
@@ -62,25 +62,25 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **ppdai Mirror Cup**: Text Matching Challenge.   ***Rank: 2/576***
 * **Kaggle**:  TGS Salt Identification Challenge.  ***Rank: 10/3234(Gold Medal)***
 
-> **Internship Experience**
+> `**Internship Experience**`
 ------
 
 * *2021.07 - 2022.01,* Microsoft Research Asia (MSRA) - NLC Group, advised by Xingxing Zhang and Furu Wei
 * *2018.06 - 2020.09,* Peking University - National Engineering Research Center For Software Enginering, advised by Prof. Wei Ye and Prof. Shikun Zhang.
 
-> **Education**
+> `**Education**`
 ------
 
 * *2022.09 - Now,* **Ph.D. Student** [Peking University](https://www.pku.edu.cn/) - Konwledge Computing and Natural Language Processing
 * *2016.09 - 2019.06,* **Master Student**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining,  
 * *2010.09 - 2014.06,* **Undergraduate Student** [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering 
  
-> **Academic Services**
+> `**Academic Services**`
 ------
 
 * **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023
 
-> **Contact with me**
+> `**Contact with me**`
 ------
 
 **E-mail**: deepblue.lb@gmail.com
