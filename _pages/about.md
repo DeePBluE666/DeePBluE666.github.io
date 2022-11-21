@@ -58,8 +58,10 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 * **National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications** *in 2018.*
 
-* **Excellent Undergraduate Thesis of University of Jinan.**  
+* **Excellent Undergraduate Thesis of University of Jinan**  *in 2014.*
 
+**Selected Competitions**
+------
 * **China Computer Federation(CCF)**: Big Data & Computing Intelligence Contest 2019(BDCI)  Sentiment Analysis Of Internet News.  ***Rank: 3/2754***  
 
 * **CIKM AnalytiCup 2018**:  Cross-Language Short Text Matching.  ***Rank: 3/1027***
