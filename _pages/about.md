@@ -44,10 +44,10 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 > `Awards and Honors`
 ------
 
-* *2021,* Huawei Scholarship, Peking University.
-* *2021,* Exceptional Award for Academic Innovation, Peking University.
-* *2018,* National Scholarship, Beijing University of Posts and Telecommunications.
-* *2014,* Excellent Undergraduate Thesis, University of Jinan.
+* *`2021,`* `Huawei Scholarship, Peking University.`
+* *`2021,`* `Exceptional Award for Academic Innovation, Peking University.`
+* *`2018,`* `National Scholarship, Beijing University of Posts and Telecommunications.`
+* *`2014,`* `Excellent Undergraduate Thesis, University of Jinan.`
 
 > `Selected Competitions`
 ------
@@ -66,8 +66,8 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 > `Internship Experience`
 ------
 
-* *2021.07 - 2022.01,* Microsoft Research Asia (MSRA) - NLC Group, advised by Xingxing Zhang and Furu Wei
-* *2018.06 - 2020.09,* Peking University - National Engineering Research Center For Software Enginering, advised by Prof. Wei Ye and Prof. Shikun Zhang.
+* *2021.07 - 2022.01,* [Microsoft Research Asia (MSRA)](https://www.msra.cn/) - NLC Group, advised by Xingxing Zhang and Furu Wei
+* *2018.06 - 2020.09,* [Peking University](https://www.pku.edu.cn/) - National Engineering Research Center For Software Enginering, advised by Prof. Wei Ye and Prof. Shikun Zhang.
 
 > `Education`
 ------
