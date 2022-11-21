@@ -17,8 +17,8 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Selected publications**
 ------
-* **Sequence Generation with Label Augmentation for Relation Extraction**  
-***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
+* <font color = red>**Sequence Generation with Label Augmentation for Relation Extraction**  
+***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()</font>
 * **Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction**  
 ***Bo Li***, *Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
@@ -67,8 +67,8 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 **Education**
 ------
 * *2022.09 - Now,* **Ph.D. Student** [Peking University](https://www.pku.edu.cn/) - Konwledge Computing and Natural Language Processing
-* *2016.09 - 2019.06,* **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining,  
-* *2010.09 - 2014.06,* **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering 
+* *2016.09 - 2019.06,* **Master Student**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining,  
+* *2010.09 - 2014.06,* **Undergraduate Student** [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering 
  
 **Academic Services**
 ------
