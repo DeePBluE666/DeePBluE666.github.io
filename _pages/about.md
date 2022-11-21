@@ -17,6 +17,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > **Selected Publications**
 ------
+
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
 ***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
 * **Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction**  
@@ -41,6 +42,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > **Awards and Honors**
 ------
+
 * *2021,* Huawei Scholarship, Peking University.
 * *2021,* Exceptional Award for Academic Innovation, Peking University.
 * *2018,* National Scholarship, Beijing University of Posts and Telecommunications.
@@ -48,6 +50,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > **Selected Competitions**
 ------
+
 * **China Computer Federation(CCF)**: Big Data & Computing Intelligence Contest 2019(BDCI)  Sentiment Analysis Of Internet News.  ***Rank: 3/2754***  
 * **CIKM AnalytiCup 2018**:  Cross-Language Short Text Matching.  ***Rank: 3/1027***
 * **IJCAI 2018**:  Click Transformation Rate Prediction.  ***Rank: 5/5024***
@@ -61,19 +64,23 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > **Internship Experience**
 ------
+
 * *2021.07 - 2022.01,* Microsoft Research Asia (MSRA) - NLC Group, advised by Xingxing Zhang and Furu Wei
 * *2018.06 - 2020.09,* Peking University - National Engineering Research Center For Software Enginering, advised by Prof. Wei Ye and Prof. Shikun Zhang.
 
 > **Education**
 ------
+
 * *2022.09 - Now,* **Ph.D. Student** [Peking University](https://www.pku.edu.cn/) - Konwledge Computing and Natural Language Processing
 * *2016.09 - 2019.06,* **Master Student**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining,  
 * *2010.09 - 2014.06,* **Undergraduate Student** [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering 
  
 > **Academic Services**
 ------
+
 * **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023
 
 > **Contact with me**
 ------
+
 **E-mail**: deepblue.lb@gmail.com
