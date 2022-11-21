@@ -73,9 +73,9 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **Dept. Fintech - JD Finance**   
   * September, 2017 - January, 2018
   * Technical Adviser
-* **Y Group - JD.com**   
-  * June, 2017 - September, 2017
-  * Research Engineer
+# * **Y Group - JD.com**   
+#  * June, 2017 - September, 2017
+#  * Research Engineer
 
 **Education**
 ------
