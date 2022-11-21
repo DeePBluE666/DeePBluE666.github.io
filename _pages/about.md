@@ -54,7 +54,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ------
 * **Huawei Scholarship, Peking University** *in 2021.*
 
-* **Academic Innovation Award, Peking University** *in 2021.*
+* **Exceptional Award for Academic Innovation, Peking University** *in 2021.*
 
 * **National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications** *in 2018.*
 
