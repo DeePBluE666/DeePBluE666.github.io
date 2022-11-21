@@ -15,45 +15,47 @@ My majore is Knowledge Computing and Information Processing.
 ------
 Natural Language Processing, Information Extraction, Knowledeg Graph, Text Classification, Long Text Understanding, Data Augmentation. 
 
-**Publications**
+**Selected publications**
 ------
+* **Sequence Generation with Label Augmentation for Relation Extraction**  
+***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Long Paper.*** [[paper]]()
+
+* **Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction**  
+***Bo Li***, *Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Long Paper.*** [[paper]]()
+
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
-*Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, Long Paper.*** [[paper]](https://www.researchgate.net/publication/351993206_Point_Disambiguate_and_Copy_Incorporating_Bilingual_Dictionaries_for_Neural_Machine_Translation#fullTextFileContent)
+*Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, CCF Rank A, Long Paper.*** [[paper]](https://www.researchgate.net/publication/351993206_Point_Disambiguate_and_Copy_Incorporating_Bilingual_Dictionaries_for_Neural_Machine_Translation#fullTextFileContent)
 
 * **Multi-view Inference for Relation Extraction with Uncertain Knowledge**  
-***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, Long Paper.*** [[paper]](https://arxiv.org/abs/2104.13579)
+***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, CCF Rank A, Long Paper.*** [[paper]](https://arxiv.org/abs/2104.13579)
 
 * **Graph Enhanced Dual Attention Network for Document-Level Relation Extraction**  
-***Bo Li***, *Wei Ye, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang.* ***COLING 2020, Long Paper.*** [[paper]](https://www.aclweb.org/anthology/2020.coling-main.136/)
+***Bo Li***, *Wei Ye, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang.* ***COLING 2020, CCF Rank B, Long Paper.*** [[paper]](https://www.aclweb.org/anthology/2020.coling-main.136/)
 
 * **Sliding Hierarchical Recurrent Neural Networks for Sequence Classification**  
-***Bo Li***,*Zhonghao Sheng, Wei Ye, Jinglei Zhang, Kai Liu and Shikun Zhang.* ***IJCNN 2020, Long Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/9207626)
+***Bo Li***,*Zhonghao Sheng, Wei Ye, Jinglei Zhang, Kai Liu and Shikun Zhang.* ***IJCNN 2020, CCF Rank C, Long Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/9207626)
 
 * **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data**  
-*Wei Ye', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* ***ACL 2019, Long Paper.*** [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf)
+*Wei Ye', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* ***ACL 2019, CCF Rank A, Long Paper.*** [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf)
 
 * **Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment**  
-***Bo Li***, *Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang.* ***ICASSP 2019.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8683812)
+***Bo Li***, *Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang.* ***ICASSP 2019, CCF Rank B, Long Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8683812)
 
 * **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Extraction**  
-***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8682806)
-
-* **Meta learning based audio tagging**  
-*Kele Xu, Boqing Zhu, Dezhi Wang, Yuxing Peng, Huaimin Wang, Lilun Zhang,* ***Bo Li.*** ***DCASE 2018*** [[paper]](http://dcase.community/documents/workshop2018/proceedings/DCASE2018Workshop_Xu_147.pdf)
-
-* **Environmental Sound Classification based on Multi-temporal Resolution Convolutional Neural Network Combining with Multi-level Features**  
-*Boqing Zhu, Kele Xu, Dezhi Wang, Lilun Zhang, **Bo Li**, Yuxing Peng.* ***PRCM 2018*** [[paper]](https://arxiv.org/abs/1805.09752)
+***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019, CCF Rank B, Long Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8682806)
 
 * **Multi-scale DenseNet-based Electricity Theft Detection**  
 ***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
 
-* **Environmental Sound Classification based on Multi-temporal Resolution CNN Network Combining with Multi-level features** 
-*Boqing Zhu, Kele Xu, Dezhi Wang, Lilun Zhang, **Bo Li**, Yuxing Peng.* ***arXiv*** [[paper]](https://arxiv.org/abs/1805.09752)
 
 
 
 **Awards and Honors**
 ------
+* **Huawei Scholarship, Peking University** *in 2021.*
+
+* **Academic Innovation Award, Peking University** *in 2021.*
+
 * **National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications** *in 2018.*
 
 * **Excellent Undergraduate Thesis of University of Jinan.**  
@@ -80,8 +82,12 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Working Experience**
 ------
+* **Microsoft Research Asia(MSRA)** *
+  * July, 2021 - January, 2022 *
+  * Research Intern at NLC Group, advised by Xingxing Zhang and Furu Wei.
+
 * **Peking University**
-  * June, 2018 - September，2020
+  * June, 2018 - September, 2020
   * Research Intern
 
 * **CortexLabs.ai**   
@@ -99,16 +105,16 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 **Education**
 ------
 * **PhD Student** [Peking University](https://www.pku.edu.cn/)    September, 2020 - Now  
-	- Konwledge Computing and Natural Language Processing
+  - Konwledge Computing and Natural Language Processing
 * **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)   September, 2016 - June, 2019  
-  - Control Science & Engineering - Information Processing and Data Mining,  
+  - Information Processing and Data Mining,  
 * **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/)   September, 2010 - July, 2014  
-  - Control Science & Engineering 
+  - Control Science & Control Engineering 
  
  
 **Academic Services**
 ------
-* **Program Committee (PC) Member**: WWW2020, EMNLP2021
+* **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023
 
 
 **Contact with me**
