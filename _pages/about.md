@@ -54,9 +54,9 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 * 2021, Exceptional Award for Academic Innovation, Peking University.
 
-* 2018, National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications.
+* 2018, National Scholarship, Beijing University of Posts and Telecommunications.
 
-* 2014, Excellent Undergraduate Thesis of University of Jinan.
+* 2014, Excellent Undergraduate Thesis, University of Jinan.
 
 **Selected Competitions**
 ------
