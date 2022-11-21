@@ -15,7 +15,7 @@ My majore is Knowledge Computing and Information Processing.
 ------
 Natural Language Processing, Information Extraction, Knowledeg Graph, Text Classification, Long Text Understanding, Data Augmentation. 
 
-**Selected publications**
+**Selected Publications**
 ------
 * <font size = 10>**Sequence Generation with Label Augmentation for Relation Extraction**  
 ***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()</font>
@@ -39,7 +39,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018.*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
 
 
-**Selected Awards and Honors**
+*Awards and Honors**
 ------
 * *2021,* Huawei Scholarship, Peking University.
 * *2021,* Exceptional Award for Academic Innovation, Peking University.
