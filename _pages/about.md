@@ -104,7 +104,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Education**
 ------
-* **PhD Student** [Peking University](https://www.pku.edu.cn/)    September, 2020 - Now  
+* **Ph.D. Student** [Peking University](https://www.pku.edu.cn/)    September, 2020 - Now  
   - Konwledge Computing and Natural Language Processing
 * **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)   September, 2016 - June, 2019  
   - Information Processing and Data Mining,  
