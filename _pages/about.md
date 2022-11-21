@@ -24,10 +24,10 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ***Bo Li***, *Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Long Paper.*** [[paper]]()
 
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
-*Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, CCF Rank A, Long Paper.*** [[paper]](https://www.researchgate.net/publication/351993206_Point_Disambiguate_and_Copy_Incorporating_Bilingual_Dictionaries_for_Neural_Machine_Translation#fullTextFileContent)
+*Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, CCF Rank A, Long Paper.*** [[paper]](https://aclanthology.org/2021.acl-long.307/)
 
 * **Multi-view Inference for Relation Extraction with Uncertain Knowledge**  
-***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, CCF Rank A, Long Paper.*** [[paper]](https://arxiv.org/abs/2104.13579)
+***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, CCF Rank A, Long Paper.*** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17563)
 
 * **Graph Enhanced Dual Attention Network for Document-Level Relation Extraction**  
 ***Bo Li***, *Wei Ye, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang.* ***COLING 2020, CCF Rank B, Long Paper.*** [[paper]](https://www.aclweb.org/anthology/2020.coling-main.136/)
@@ -45,20 +45,18 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019, CCF Rank B, Long Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8682806)
 
 * **Multi-scale DenseNet-based Electricity Theft Detection**  
-***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
+***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018.*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
 
 
-
-
-**Awards and Honors**
+**Selected Awards and Honors**
 ------
-* **Huawei Scholarship, Peking University** *in 2021.*
+* 2021, Huawei Scholarship, Peking University.
 
-* **Exceptional Award for Academic Innovation, Peking University** *in 2021.*
+* 2021, Exceptional Award for Academic Innovation, Peking University.
 
-* **National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications** *in 2018.*
+* 2018, National Scholarship for Postgraduates of Beijing University of Posts and Telecommunications.
 
-* **Excellent Undergraduate Thesis of University of Jinan**  *in 2014.*
+* 2014, Excellent Undergraduate Thesis of University of Jinan.
 
 **Selected Competitions**
 ------
@@ -84,9 +82,9 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Working Experience**
 ------
-* **Microsoft Research Asia(MSRA)** *
-  * July, 2021 - January, 2022 *
-  * Research Intern at NLC Group, advised by Xingxing Zhang and Furu Wei.
+* **NLC Group - Microsoft Research Asia (MSRA)** 
+  * July, 2021 - January, 2022 
+  * Research Intern, advised by Xingxing Zhang and Furu Wei
 
 * **Peking University**
   * June, 2018 - September, 2020
@@ -122,7 +120,3 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 **Contact with me**
 ------
 **E-mail**: deepblue.lb@gmail.com  
-
-**Kaggle**: [My Kaggle Homepage](https://www.kaggle.com/buptbob)
-
-**The Knowledge Computing Group at Peking University**: [Our Research Group](https://se.pku.edu.cn/kcg/)
