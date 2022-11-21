@@ -61,14 +61,14 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 **Internship Experience**
 ------
-* 2021.07 - 2023.01 Microsoft Research Asia (MSRA) - NLC Group, advised by Xingxing Zhang and Furu Wei
-* 2019.06 - 2022.09 Peking University - National Engineering Research Center For Software Enginering, advised by Prof. Wei Ye and Prof. Shikun Zhang.
+* 2021.07 - 2022.01, Microsoft Research Asia (MSRA) - NLC Group, advised by Xingxing Zhang and Furu Wei
+* 2018.06 - 2020.09, Peking University - National Engineering Research Center For Software Enginering, advised by Prof. Wei Ye and Prof. Shikun Zhang.
 
 **Education**
 ------
-* 2022.09 - Now **Ph.D. Student** [Peking University](https://www.pku.edu.cn/) - Konwledge Computing and Natural Language Processing
-* 2016.09 - 2019.06 **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining,  
-* 2010.09 - 2014.06 **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering 
+* 2022.09 - Now, **Ph.D. Student** [Peking University](https://www.pku.edu.cn/) - Konwledge Computing and Natural Language Processing
+* 2016.09 - 2019.06, **Master Degree**  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining,  
+* 2010.09 - 2014.06, **Bachelor Degree** [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering 
  
 **Academic Services**
 ------
