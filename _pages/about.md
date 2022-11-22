@@ -66,20 +66,20 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 > `Internship Experience`
 ------
 
-* *2021.07 - 2022.01* &#124; [Microsoft Research Asia (MSRA)](https://www.msra.cn/) - NLC Group, advised by Xingxing Zhang and Furu Wei
+* *2021.07 - 2022.01* &#124; [Microsoft Research Asia (MSRA)](https://www.msra.cn/) - NLC Group, advised by Xingxing Zhang and Furu Wei.
 * *2018.06 - 2020.09* &#124; [Peking University](https://www.pku.edu.cn/) - National Engineering Research Center For Software Enginering, advised by Prof. Wei Ye and Prof. Shikun Zhang.
 
 > `Education`
 ------
 
-* *2020.09 - Now* &#124; Ph.D. Student [Peking University](https://www.pku.edu.cn/) - Konwledge Computing and Natural Language Processing
-* *2016.09 - 2019.06* &#124; Master Student  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining,  
-* *2010.09 - 2014.06* &#124; Undergraduate Student [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering 
+* *2020.09 - Now* &#124; Ph.D. Student [Peking University](https://www.pku.edu.cn/) - Knowledge Computing and Natural Language Processing.
+* *2016.09 - 2019.06* &#124; Master Student  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) - Information Processing and Data Mining.
+* *2010.09 - 2014.06* &#124; Undergraduate Student [University of Jinan](http://www.ujn.edu.cn/) - Control Science & Control Engineering.
  
 > `Academic Services`
 ------
 
-* **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023
+* **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023.
 
 > `Contact with me`
 ------
