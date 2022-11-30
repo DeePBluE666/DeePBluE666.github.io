@@ -38,7 +38,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Extraction**  
 ***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019, CCF Rank B, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8682806)
 * **Multi-scale DenseNet-based Electricity Theft Detection**  
-***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018.*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
+***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018, CCF Rank C, Full Paper.*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
 
 
 > `Awards and Honors`
