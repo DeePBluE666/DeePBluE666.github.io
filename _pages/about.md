@@ -51,7 +51,8 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > `Selected Competitions`
 ------
-
+* **China AI and Law Challenge(CAIL2022)**: Event Detection. ***Rank: First Prize***
+* **China AI and Law Challenge(CAIL2022)**: Judicial Examination. ***Rank: Second Prize***
 * **China Computer Federation(CCF)**: Big Data & Computing Intelligence Contest 2019(BDCI)  Sentiment Analysis Of Internet News.  ***Rank: 3/2754***  
 * **CIKM AnalytiCup 2018**:  Cross-Language Short Text Matching.  ***Rank: 3/1027***
 * **IJCAI 2018**:  Click Transformation Rate Prediction.  ***Rank: 5/5024***
