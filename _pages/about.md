@@ -20,9 +20,9 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ------
 
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
-***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
+***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]](https://arxiv.org/abs/2212.14266)
 * **Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction**  
-***Bo Li***, *Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]]()
+***Bo Li***, *Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper.*** [[paper]](https://arxiv.org/abs/2212.14270)
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
 *Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, CCF Rank A, Full Paper.*** [[paper]](https://aclanthology.org/2021.acl-long.307/)
 * **Multi-view Inference for Relation Extraction with Uncertain Knowledge**  
