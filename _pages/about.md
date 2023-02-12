@@ -36,7 +36,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment**  
 ***Bo Li***, *Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang.* ***ICASSP 2019, CCF Rank B, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8683812)
 * **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Extraction**  
-***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019, CCF Rank B, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8682806)
+***Bo Li***, *Kele Xu, Dawei Feng, Haibo Mi, Huaimin Wang, Jian Zhu.* ***ICASSP 2019, CCF Rank B, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8682806)[[code]](https://github.com/DeePBluE666/DCAE-ICASSP-2019)
 * **Multi-scale DenseNet-based Electricity Theft Detection**  
 ***Bo Li***, *Kele Xu, Xiaoyan Cui, Yiheng Wang, Xinbo Ai, Yanbo Wang.* ***ICIC2018, CCF Rank C, Full Paper.*** [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-95930-6_17)
 
