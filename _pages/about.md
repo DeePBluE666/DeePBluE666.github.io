@@ -32,7 +32,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **Sliding Hierarchical Recurrent Neural Networks for Sequence Classification**  
 ***Bo Li***,*Zhonghao Sheng, Wei Ye, Jinglei Zhang, Kai Liu and Shikun Zhang.* ***IJCNN 2020, CCF Rank C, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/9207626)
 * **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data**  
-*Wei Ye', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* ***ACL 2019, CCF Rank A, Full Paper.*** [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf)
+*Wei Ye', **Bo Li'**(equal contribution), Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang.* ***ACL 2019, CCF Rank A, Full Paper.*** [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf)[[code]](https://github.com/pkuserc/relation-extraction-ACL2019)
 * **Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment**  
 ***Bo Li***, *Zehua Cheng, Zhenghua Xu, Wei Ye, Thomas Lukasiewicz, Shikun Zhang.* ***ICASSP 2019, CCF Rank B, Full Paper.*** [[paper]](https://ieeexplore.ieee.org/abstract/document/8683812)
 * **Denoising Convolutional Autoencoder based B-mode Ultrasound Tongue Image Feature Extraction**  
