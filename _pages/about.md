@@ -26,7 +26,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 * **Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation**  
 *Tong Zhang, Long Zhang, Wei Ye, **Bo Li**, Jinan Sun, Shikun Zhang, Xiaoyu Zhu and Wen Zhao.* ***ACL 2021, CCF Rank A, Full Paper.*** [[paper]](https://aclanthology.org/2021.acl-long.307/)
 * **Multi-view Inference for Relation Extraction with Uncertain Knowledge**  
-***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, CCF Rank A, Full Paper.*** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17563)
+***Bo Li***, *Wei Ye, Canming Huang and Shikun Zhang.* ***AAAI 2021, CCF Rank A, Full Paper.*** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17563)[[code]](https://github.com/pkuserc/AAAI2021-MIUK-Relation-Extraction)
 * **Graph Enhanced Dual Attention Network for Document-Level Relation Extraction**  
 ***Bo Li***, *Wei Ye, Zhonghao Sheng, Rui Xie, Xiangyu Xi and Shikun Zhang.* ***COLING 2020, CCF Rank B, Full Paper.*** [[paper]](https://www.aclweb.org/anthology/2020.coling-main.136/)
 * **Sliding Hierarchical Recurrent Neural Networks for Sequence Classification**  
