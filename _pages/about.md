@@ -20,7 +20,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ------
 
 *  01.2023 &#124; I will serve as a PC member at ACL2023.
-*  12.2022 &#124; Our team win two prizes at China AI and Law Challenge(CAIL2022) 
+*  12.2022 &#124; Our team win two prizes at China AI and Law Challenge(CAIL2022).
 *  11.2022 &#124; Two papers are accepted by AAAI2023.
 *  09.2022 &#124; I will serve as a PC member at SDM2023.
 
