@@ -24,6 +24,12 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 *  *2022.11* &#124; Two papers are accepted by AAAI2023.
 *  *2022.09* &#124; I will serve as a PC member at SDM2023.
 
+> `Preprint`
+------
+* **Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness**
+
+***Bo Li***, *Gexiang Fang, Yang Yang, Quansen Wang, Wei Ye, Wen Zhao, and Shikun Zhang.*, Arxiv 2023.4 [[paper]](https://arxiv.org/abs/2304.11633)[[code]](https://github.com/pkuserc/ChatGPT_for_IE)![](https://img.shields.io/github/stars/pkuserc/ChatGPT_for_IE.svg)
+
 > `Selected Publications`
 ------
 
