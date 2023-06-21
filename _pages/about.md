@@ -21,7 +21,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 *  *2023.06* &#124; I will serve as a PC member at EMNLP2023.
 *  *2023.05* &#124; I will serve as a PC member at ECAI2023.
-*  *2023.04* &#124; We released a new paper! **Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness**, [[arxiv]](https://arxiv.org/abs/2304.11633)[[code]](https://github.com/pkuserc/ChatGPT_for_IE)
+*  *2023.04* &#124; We released a new paper. *Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness*, [[arxiv]](https://arxiv.org/abs/2304.11633)[[code]](https://github.com/pkuserc/ChatGPT_for_IE)
 *  *2023.01* &#124; I will serve as a PC member at ACL2023.
 *  *2022.12* &#124; Our team win two prizes at China AI and Law Challenge(CAIL2022).
 *  *2022.11* &#124; Two papers are accepted by AAAI2023.
@@ -98,7 +98,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 > `Academic Services`
 ------
 
-* **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023.
+* **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023, ECAL2023, EMNLP2023.
 
 > `Contact with me`
 ------
