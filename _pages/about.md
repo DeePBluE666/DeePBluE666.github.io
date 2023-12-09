@@ -16,9 +16,10 @@ My majore is Knowledge Computing and Information Processing.
 
 Natural Language Processing, Information Extraction, Knowledeg Graph, Text Classification, Long Text Understanding, Data Augmentation. 
 
-> `News!` (updated: 2023.06)
+> `News!` (updated: 2023.12)
 ------
-
+*  *2022.12* &#124; One paper is accepted by AAAI2024.
+*  *2022.11* &#124; I will serve as a PC member at COLING2024.
 *  *2023.06* &#124; I will serve as a PC member at EMNLP2023.
 *  *2023.05* &#124; I will serve as a PC member at ECAI2023.
 *  *2023.04* &#124; We released a new paper. *Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness*, [[arxiv]](https://arxiv.org/abs/2304.11633)[[code]](https://github.com/pkuserc/ChatGPT_for_IE)
@@ -35,7 +36,8 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > `Selected Publications`
 ------
-
+* **Labels Need Prompts Too: Mask Matching for Natural Language Understanding Tasks**  
+***Bo Li***, *Wei Ye, Quansen Wang, Wen Zhao, Shikun Zhang.* ***AAAI 2024, CCF Rank A, Full Paper.*** 
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
 ***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper (oral).*** [[paper]](https://arxiv.org/abs/2212.14266)[[code]](https://github.com/pkuserc/rela)![](https://img.shields.io/github/stars/pkuserc/RELA.svg)
 * **Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction**  
@@ -98,7 +100,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 > `Academic Services`
 ------
 
-* **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023, ECAL2023, EMNLP2023.
+* **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023, ECAL2023, EMNLP2023, COLING2024.
 
 > `Contact with me`
 ------
