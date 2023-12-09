@@ -18,6 +18,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > `News!` (updated: 2023.12)
 ------
+
 *  *2022.12* &#124; One paper is accepted by AAAI2024.
 *  *2022.11* &#124; I will serve as a PC member at COLING2024.
 *  *2023.06* &#124; I will serve as a PC member at EMNLP2023.
@@ -36,6 +37,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > `Selected Publications`
 ------
+
 * **Labels Need Prompts Too: Mask Matching for Natural Language Understanding Tasks**  
 ***Bo Li***, *Wei Ye, Quansen Wang, Wen Zhao, Shikun Zhang.* ***AAAI 2024, CCF Rank A, Full Paper.*** 
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
