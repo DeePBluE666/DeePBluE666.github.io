@@ -39,7 +39,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 ------
 
 * **Labels Need Prompts Too: Mask Matching for Natural Language Understanding Tasks**  
-***Bo Li***, *Wei Ye, Quansen Wang, Wen Zhao, Shikun Zhang.* ***AAAI 2024, CCF Rank A, Full Paper.*** 
+***Bo Li***, *Wei Ye, Quansen Wang, Wen Zhao, Shikun Zhang.* ***AAAI 2024, CCF Rank A, Full Paper.*** [[paper]](https://arxiv.org/abs/2212.14266)
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
 ***Bo Li***, *Dingyao Yu, Wei Ye, Jinglei Zhang, Shikun Zhang.* ***AAAI 2023, CCF Rank A, Full Paper (oral).*** [[paper]](https://arxiv.org/abs/2212.14266)[[code]](https://github.com/pkuserc/rela)![](https://img.shields.io/github/stars/pkuserc/RELA.svg)
 * **Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction**  
