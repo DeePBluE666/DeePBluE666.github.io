@@ -39,7 +39,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 > `Selected Publications`
 ------
 * **MixCL: Mixed Contrastive Learning for Relation Extraction**  
-*Jinglei Zhang*, ***Bo Li***(equal contribution), *Xixin Cao, Minghui Zhang, Wen Zhao.* ***PAKDD 2024, CCF Rank C, Full Paper.*** [[paper]](https://arxiv.org/abs/2312.08726)
+*Jinglei Zhang*, ***Bo Li***(equal contribution), *Xixin Cao, Minghui Zhang, Wen Zhao.* ***PAKDD 2024, CCF Rank C, Full Paper.*** 
 * **Labels Need Prompts Too: Mask Matching for Natural Language Understanding Tasks**  
 ***Bo Li***, *Wei Ye, Quansen Wang, Wen Zhao, Shikun Zhang.* ***AAAI 2024, CCF Rank A, Full Paper.*** [[paper]](https://arxiv.org/abs/2312.08726)
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
