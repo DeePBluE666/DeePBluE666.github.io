@@ -19,7 +19,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 > `News!` (updated: 2024.02)
 ------
 
-*  *2024.02* &#124; One paper is accepted by PKADD2024.
+*  *2024.02* &#124; One paper is accepted by PAKDD2024.
 *  *2023.12* &#124; One paper is accepted by AAAI2024.
 *  *2023.11* &#124; I will serve as a PC member at COLING2024.
 *  *2023.06* &#124; I will serve as a PC member at EMNLP2023.
