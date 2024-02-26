@@ -16,11 +16,12 @@ My majore is Knowledge Computing and Information Processing.
 
 Natural Language Processing, Information Extraction, Knowledeg Graph, Text Classification, Long Text Understanding, Data Augmentation. 
 
-> `News!` (updated: 2023.12)
+> `News!` (updated: 2024.02)
 ------
 
-*  *2022.12* &#124; One paper is accepted by AAAI2024.
-*  *2022.11* &#124; I will serve as a PC member at COLING2024.
+*  *2024.02* &#124; One paper is accepted by PKADD2024.
+*  *2023.12* &#124; One paper is accepted by AAAI2024.
+*  *2023.11* &#124; I will serve as a PC member at COLING2024.
 *  *2023.06* &#124; I will serve as a PC member at EMNLP2023.
 *  *2023.05* &#124; I will serve as a PC member at ECAI2023.
 *  *2023.04* &#124; We released a new paper. *Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness*, [[arxiv]](https://arxiv.org/abs/2304.11633)[[code]](https://github.com/pkuserc/ChatGPT_for_IE)
@@ -37,7 +38,8 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > `Selected Publications`
 ------
-
+* **MixCL: Mixed Contrastive Learning for Relation Extraction**  
+*Jinglei Zhang*, ***Bo Li***(equal contribution), *Xixin Cao, Minghui Zhang, Wen Zhao.* ***PAKDD 2024, CCF Rank C, Full Paper.*** [[paper]](https://arxiv.org/abs/2312.08726)
 * **Labels Need Prompts Too: Mask Matching for Natural Language Understanding Tasks**  
 ***Bo Li***, *Wei Ye, Quansen Wang, Wen Zhao, Shikun Zhang.* ***AAAI 2024, CCF Rank A, Full Paper.*** [[paper]](https://arxiv.org/abs/2312.08726)
 * **Sequence Generation with Label Augmentation for Relation Extraction**  
