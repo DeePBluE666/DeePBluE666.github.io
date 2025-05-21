@@ -8,27 +8,16 @@ redirect_from:
 ---
 
 ------
-Hi! I'm Bo Li (李博), a Ph.D. student (Sep. 2020 - Present) at [The Knowledge Computing Lab](https://se.pku.edu.cn/kcl/) , Peking University in Beijing, China, advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/), Prof. Wen Zhao and Prof. Shikun Zhang.
-My majore is Knowledge Computing and Information Processing. 
+Hi! I'm Bo Li (李博), currently a Lecturer at the School of Health Sciences and Biomedical Engineering, Hebei University of Technology, Tianjin, China.
+
+I received my Ph.D. degree in June 2024 from the [Knowledge Computing Lab](https://se.pku.edu.cn/kcl/), Peking University, where I was fortunate to be advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/), Prof. Wen Zhao, and Prof. Shikun Zhang.  
+My research focuses on Knowledge Computing and Information Processing, with particular interests in Large Language Models, Information Extraction and  AI for Medical.
+
 
 > `Interests`
 ------
 
-Natural Language Processing, Information Extraction, Knowledeg Graph, Text Classification, Long Text Understanding, Data Augmentation. 
-
-> `News!` (updated: 2024.02)
-------
-
-*  *2024.02* &#124; One paper is accepted by PAKDD2024.
-*  *2023.12* &#124; One paper is accepted by AAAI2024.
-*  *2023.11* &#124; I will serve as a PC member at COLING2024.
-*  *2023.06* &#124; I will serve as a PC member at EMNLP2023.
-*  *2023.05* &#124; I will serve as a PC member at ECAI2023.
-*  *2023.04* &#124; We released a new paper. *Evaluating ChatGPT’s Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness*, [[arxiv]](https://arxiv.org/abs/2304.11633)[[code]](https://github.com/pkuserc/ChatGPT_for_IE)
-*  *2023.01* &#124; I will serve as a PC member at ACL2023.
-*  *2022.12* &#124; Our team win two prizes at China AI and Law Challenge(CAIL2022).
-*  *2022.11* &#124; Two papers are accepted by AAAI2023.
-*  *2022.09* &#124; I will serve as a PC member at SDM2023.
+Large Language Model, Natural Language Processing, Information Extraction, AI for Medical, Retrieval-Augmented Generation, Data Augmentation. 
 
 > `Preprint`
 ------
@@ -38,7 +27,7 @@ Natural Language Processing, Information Extraction, Knowledeg Graph, Text Class
 
 > `Selected Publications`
 ------
-
+* **Bo Li***, *Gexiang Fang, Wei Ye, Zhenghua Xu, Jinglei Zhang, Hao Cheng and Shikun Zhang.* ***ACL 2025, Findings.*** [[paper]](https://arxiv.org/abs/2212.14266)[[code]](https://github.com/PKU-Fgx/MPL)![](https://img.shields.io/github/stars/PKU-Fgx/MPL.svg)
 * **MixCL: Mixed Contrastive Learning for Relation Extraction**  
 *Jinglei Zhang*, ***Bo Li***(equal contribution), *Xixin Cao, Minghui Zhang, Wen Zhao.* ***PAKDD 2024, CCF Rank C, Full Paper.*** 
 * **Labels Need Prompts Too: Mask Matching for Natural Language Understanding Tasks**  
