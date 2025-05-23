@@ -27,7 +27,8 @@ Large Language Model, Natural Language Processing, Information Extraction, AI fo
 
 > `Selected Publications`
 ------
-* **Bo Li***, *Gexiang Fang, Wei Ye, Zhenghua Xu, Jinglei Zhang, Hao Cheng and Shikun Zhang.* ***ACL 2025, Findings.*** [[paper]](https://arxiv.org/abs/2212.14266)[[code]](https://github.com/PKU-Fgx/MPL)![](https://img.shields.io/github/stars/PKU-Fgx/MPL.svg)
+
+* **Bo Li***, *Gexiang Fang, Wei Ye, Zhenghua Xu, Jinglei Zhang, Hao Cheng and Shikun Zhang.* ***ACL 2025, Findings.*** [[paper]](https://arxiv.org/abs/2505.16107)[[code]](https://github.com/PKU-Fgx/MPL)![](https://img.shields.io/github/stars/PKU-Fgx/MPL.svg)
 * **MixCL: Mixed Contrastive Learning for Relation Extraction**  
 *Jinglei Zhang*, ***Bo Li***(equal contribution), *Xixin Cao, Minghui Zhang, Wen Zhao.* ***PAKDD 2024, CCF Rank C, Full Paper.*** 
 * **Labels Need Prompts Too: Mask Matching for Natural Language Understanding Tasks**  
