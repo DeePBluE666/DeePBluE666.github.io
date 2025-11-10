@@ -27,7 +27,10 @@ Large Language Model, Natural Language Processing, Information Extraction, AI fo
 
 > `Selected Publications`
 ------
-
+* **Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG**  
+***Bo Li***, *Tiantian, Zhenghua Xu, Hao Cheng, Shikun Zhang, Wei Ye.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.***
+* **Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**  
+***Bo Li***, *Rui xie, Zhenghua Xu.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.***
 * **MPL: Multiple Programming Languages with Large Language Models for Information Extraction**  
 ***Bo Li***, *Gexiang Fang, Wei Ye, Zhenghua Xu, Jinglei Zhang, Hao Cheng and Shikun Zhang.* ***ACL 2025, Findings.*** [[paper]](https://arxiv.org/abs/2505.16107)[[code]](https://github.com/PKU-Fgx/MPL)![](https://img.shields.io/github/stars/PKU-Fgx/MPL.svg)
 * **MixCL: Mixed Contrastive Learning for Relation Extraction**  
