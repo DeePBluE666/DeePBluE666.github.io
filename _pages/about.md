@@ -27,6 +27,7 @@ Large Language Model, Natural Language Processing, Information Extraction, AI fo
 
 > `Selected Publications`
 ------
+
 * **Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG**  
 ***Bo Li***, *Tiantian, Zhenghua Xu, Hao Cheng, Shikun Zhang, Wei Ye.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.***
 * **Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**  
