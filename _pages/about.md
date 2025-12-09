@@ -33,7 +33,7 @@ Large Language Model, Natural Language Processing, Information Extraction, AI fo
 * **Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**  
 ***Bo Li***, *Rui xie, Zhenghua Xu.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/pdf/2511.09984)[[code]](https://github.com/pkuserc/SCD)![](https://img.shields.io/github/stars/pkuserc/SCD.svg)
 * **You Need Glimpse Before Segmentation:Stochastic Detector-Actor-Critic for Medical Image Segmentation**  
-*Zhenghua Xu, Yunxin Liu, Di Yuan, **Bo Li**, Weipeng Liu, Thomas Lukasiewicz.* *IEEE Journal of Biomedical and Health Informatics* **(JBHI)**.*2025, Early Access.* 
+*Zhenghua Xu, Yunxin Liu, Di Yuan, **Bo Li**, Weipeng Liu, Thomas Lukasiewicz.* *IEEE Journal of Biomedical and Health Informatics* **(JBHI, SCI Q2)**.*2025, Early Access.* 
 * **MPL: Multiple Programming Languages with Large Language Models for Information Extraction**  
 ***Bo Li***, *Gexiang Fang, Wei Ye, Zhenghua Xu, Jinglei Zhang, Hao Cheng and Shikun Zhang.* ***ACL 2025, Findings.*** [[paper]](https://arxiv.org/abs/2505.16107)[[code]](https://github.com/PKU-Fgx/MPL)![](https://img.shields.io/github/stars/PKU-Fgx/MPL.svg)
 * **MixCL: Mixed Contrastive Learning for Relation Extraction**  
