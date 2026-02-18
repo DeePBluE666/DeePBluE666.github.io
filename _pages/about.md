@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 ------
-Hi! I'm Bo Li (李博), currently a Lecturer at the School of Health Sciences and Biomedical Engineering, Hebei University of Technology, Tianjin, China.
+Hi! I'm Bo Li (李博), currently a post-doctoral at Peking University, Beijing, China. I received my Ph.D. degree in June 2024 from the [Knowledge Computing Lab](https://se.pku.edu.cn/kcl/), Peking University, where I was fortunate to be advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/), Prof. Wen Zhao, and Prof. Shikun Zhang.  
 
-I received my Ph.D. degree in June 2024 from the [Knowledge Computing Lab](https://se.pku.edu.cn/kcl/), Peking University, where I was fortunate to be advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/), Prof. Wen Zhao, and Prof. Shikun Zhang.  
 My research focuses on Knowledge Computing and Information Processing, with particular interests in Large Language Models, Information Extraction and  AI for Medical.
 
 
