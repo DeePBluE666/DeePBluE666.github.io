@@ -10,13 +10,11 @@ redirect_from:
 ------
 Hi! I'm Bo Li (李博), currently a post-doctoral at Peking University, Beijing, China. I received my Ph.D. degree in June 2024 from the [Knowledge Computing Lab](https://se.pku.edu.cn/kcl/), Peking University, where I was fortunate to be advised by Prof. [Wei Ye](https://se.pku.edu.cn/kcl/weiye/), Prof. Wen Zhao, and Prof. Shikun Zhang.  
 
-My research focuses on Knowledge Computing and Information Processing, with particular interests in Large Language Models, Information Extraction and  AI for Medical.
-
 
 > `Interests`
 ------
 
-Large Language Model, Natural Language Processing, Information Extraction, AI for Medical, Retrieval-Augmented Generation, Data Augmentation. 
+My research focuses on Knowledge Computing and Information Processing, with particular interests in Large Language Model, Natural Language Processing, Information Extraction, Retrieval-Augmented Generation, Data Augmentation. 
 
 > `Preprint`
 ------
