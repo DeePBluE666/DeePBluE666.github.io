@@ -25,6 +25,13 @@ My research focuses on Knowledge Computing and Information Processing, with part
 > `Selected Publications`
 ------
 
+* **Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning**  
+***Bo Li***, *Mingda Wang, Gexiang Fang, Shikun Zhang, Wei Ye.* ***ACL 2026, CCF Rank A, Main Paper.***
+* **Instruction Data Selection via Answer Divergence**  
+***Bo Li***, *Mingda Wang, Shikun Zhang, Wei Ye.* ***ACL 2026, CCF Rank A, Main Paper.***
+* **Data Selection for Multi-turn Dialogue Instruction Tuning**  
+***Bo Li***, *Shikun Zhang, Wei Ye.* ***ACL 2026, Findings.***
+  
 * **Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG**  
 ***Bo Li***, *Tiantian, Zhenghua Xu, Hao Cheng, Shikun Zhang, Wei Ye.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/pdf/2511.09980)[[code]](https://github.com/pkuserc/ETC)![](https://img.shields.io/github/stars/pkuserc/ETC.svg)
 * **Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**  
