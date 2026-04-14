@@ -105,7 +105,7 @@ My research focuses on Knowledge Computing and Information Processing, with part
 > `Academic Services`
 ------
 
-* **Program Committee (PC) Member**: WWW2020, EMNLP2021, EMNLP2022, SDM2022, ACL2022, ACL2023, ECAL2023, EMNLP2023, COLING2024.
+* **Reviewer and Program Committee (PC) Member**: AAAI, ACL, COLING, ECAL, EMNLP, MICCA, SDM, WWWW, TNNLS, KBS, etc.
 
 > `Contact with me`
 ------
