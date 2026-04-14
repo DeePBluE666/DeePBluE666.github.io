@@ -105,7 +105,7 @@ My research focuses on Knowledge Computing and Information Processing, with part
 > `Academic Services`
 ------
 
-* **Reviewer and Program Committee (PC) Member**: AAAI, ACL, COLING, ECAL, EMNLP, MICCA, SDM, WWWW, TNNLS, KBS, etc.
+* **Reviewer and Program Committee (PC) Member**: AAAI, ACL, COLING, ECAL, EMNLP, MICCA, SDM, WWW, TNNLS, KBS, etc.
 
 > `Contact with me`
 ------
