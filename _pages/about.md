@@ -26,15 +26,15 @@ My research focuses on Knowledge Computing and Information Processing, with part
 ------
 
 * **Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning**  
-***Bo Li***, *Mingda Wang, Gexiang Fang, Shikun Zhang, Wei Ye.* ***ACL 2026, CCF Rank A, Main Paper.***[[paper]](https://arxiv.org/pdf/2604.11407)[[project]](https://wisdomshell.github.io/GRIP/)[[weight]](https://huggingface.co/collections/WisdomShell/grip)[[code]](https://github.com/WisdomShell/GRIP)![](https://img.shields.io/github/stars/WisdomShell/GRIP.svg)
+***Bo Li***, *Mingda Wang, Gexiang Fang, Shikun Zhang, Wei Ye.* ***ACL 2026, CCF Rank A, Main Paper.***[[paper]](https://arxiv.org/abs/2604.11407)[[project]](https://wisdomshell.github.io/GRIP/)[[weight]](https://huggingface.co/collections/WisdomShell/grip)[[code]](https://github.com/WisdomShell/GRIP)![](https://img.shields.io/github/stars/WisdomShell/GRIP.svg)
 * **Instruction Data Selection via Answer Divergence**  
 ***Bo Li***, *Mingda Wang, Shikun Zhang, Wei Ye.* ***ACL 2026, CCF Rank A, Main Paper.***[[paper]](https://arxiv.org/abs/2604.10448)[[project]](https://wisdomshell.github.io/ADG/)[[weight]](https://huggingface.co/collections/WisdomShell/adg)[[code]](https://github.com/WisdomShell/ADG)![](https://img.shields.io/github/stars/WisdomShell/ADG.svg)
 * **Data Selection for Multi-turn Dialogue Instruction Tuning**  
 ***Bo Li***, *Shikun Zhang, Wei Ye.* ***ACL 2026, Findings.*** [[paper]](https://arxiv.org/abs/2604.07892)[[project]](https://wisdomshell.github.io/MDS/)[[code]](https://github.com/pkuserc/MDS)![](https://img.shields.io/github/stars/pkuserc/MDS.svg)
 * **Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG**  
-***Bo Li***, *Tiantian, Zhenghua Xu, Hao Cheng, Shikun Zhang, Wei Ye.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/pdf/2511.09980)[[code]](https://github.com/pkuserc/ETC)![](https://img.shields.io/github/stars/pkuserc/ETC.svg)
+***Bo Li***, *Tiantian, Zhenghua Xu, Hao Cheng, Shikun Zhang, Wei Ye.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/abs/2511.09980)[[code]](https://github.com/pkuserc/ETC)![](https://img.shields.io/github/stars/pkuserc/ETC.svg)
 * **Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**  
-***Bo Li***, *Rui xie, Zhenghua Xu.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/pdf/2511.09984)[[code]](https://github.com/pkuserc/SCD)![](https://img.shields.io/github/stars/pkuserc/SCD.svg)
+***Bo Li***, *Rui xie, Zhenghua Xu.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/abs/2511.09984)[[code]](https://github.com/pkuserc/SCD)![](https://img.shields.io/github/stars/pkuserc/SCD.svg)
 * **You Need Glimpse Before Segmentation:Stochastic Detector-Actor-Critic for Medical Image Segmentation**  
 *Zhenghua Xu, Yunxin Liu, Di Yuan, **Bo Li**, Weipeng Liu, Thomas Lukasiewicz.* *IEEE Journal of Biomedical and Health Informatics* **(JBHI, JCR Q1)**.*2025, Early Access.* 
 * **MPL: Multiple Programming Languages with Large Language Models for Information Extraction**  
