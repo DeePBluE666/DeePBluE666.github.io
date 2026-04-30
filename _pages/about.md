@@ -35,6 +35,8 @@ My research focuses on Knowledge Computing and Information Processing, with part
 ***Bo Li***, *Tiantian, Zhenghua Xu, Hao Cheng, Shikun Zhang, Wei Ye.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/abs/2511.09980)[[code]](https://github.com/pkuserc/ETC)![](https://img.shields.io/github/stars/pkuserc/ETC.svg)
 * **Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**  
 ***Bo Li***, *Rui xie, Zhenghua Xu.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/abs/2511.09984)[[code]](https://github.com/pkuserc/SCD)![](https://img.shields.io/github/stars/pkuserc/SCD.svg)
+* **Advancing federated semi-supervised medical image segmentation: A duo of interactive denoising pseudo-labels and convolutional contrastive learning**  
+*Zhenghua Xu, Yujun Zhang, **Bo Li**, Gaoxi Zhou, Xianglin Lu, Thomas Lukasiewicz.* *Medical Image Analysis* **(MIA, JCR Q1)**.*2026.* 
 * **You Need Glimpse Before Segmentation:Stochastic Detector-Actor-Critic for Medical Image Segmentation**  
 *Zhenghua Xu, Yunxin Liu, Di Yuan, **Bo Li**, Weipeng Liu, Thomas Lukasiewicz.* *IEEE Journal of Biomedical and Health Informatics* **(JBHI, JCR Q1)**.*2025, Early Access.* 
 * **MPL: Multiple Programming Languages with Large Language Models for Information Extraction**  
