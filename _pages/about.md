@@ -25,6 +25,8 @@ My research focuses on Knowledge Computing and Information Processing, with part
 > `Selected Publications`
 ------
 
+* **Label space compression and prompt alignment for collaborative inference with small and large language models**  
+***Bo Li**, Zhenghua Xu, Shikun Zhang, Weiye.*  ***Neurocomputing, JCR Q1, 2026.*** 
 * **Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning**  
 ***Bo Li***, *Mingda Wang, Gexiang Fang, Shikun Zhang, Wei Ye.* ***ACL 2026, CCF Rank A, Main Paper.***[[paper]](https://arxiv.org/abs/2604.11407)[[project]](https://wisdomshell.github.io/GRIP/)[[weight]](https://huggingface.co/collections/WisdomShell/grip)[[code]](https://github.com/WisdomShell/GRIP)![](https://img.shields.io/github/stars/WisdomShell/GRIP.svg)
 * **Instruction Data Selection via Answer Divergence**  
@@ -35,6 +37,10 @@ My research focuses on Knowledge Computing and Information Processing, with part
 ***Bo Li***, *Tiantian, Zhenghua Xu, Hao Cheng, Shikun Zhang, Wei Ye.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/abs/2511.09980)[[code]](https://github.com/pkuserc/ETC)![](https://img.shields.io/github/stars/pkuserc/ETC.svg)
 * **Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**  
 ***Bo Li***, *Rui xie, Zhenghua Xu.* ***AAAI 2026, CCF Rank A, Full Paper, Oral.*** [[paper]](https://arxiv.org/abs/2511.09984)[[code]](https://github.com/pkuserc/SCD)![](https://img.shields.io/github/stars/pkuserc/SCD.svg)
+* **Federated Learning with Global Model Hint for Medical Image Object Detection**  
+*Zhenghua Xu, Gaoxi Zhou, **Bo Li**, Yujun Zhang, Thomas Lukasiewicz.* *IEEE Journal of Biomedical and Health Informatics* **(JBHI, JCR Q1)**.*2026.* 
+* **Pseudo-Global Based Sequential Contribution Estimation for Federated Semi-Supervised Medical Image Segmentation**  
+*Gaoxi Zhou, Zhenghua Xu, Hexiang Zhang, Runhe Yang, **Bo Li**, Thomas Lukasiewicz.* *IEEE Journal of Biomedical and Health Informatics* **(JBHI, JCR Q1)**.*2026.* 
 * **Advancing federated semi-supervised medical image segmentation: A duo of interactive denoising pseudo-labels and convolutional contrastive learning**  
 *Zhenghua Xu, Yujun Zhang, **Bo Li**, Gaoxi Zhou, Xianglin Lu, Thomas Lukasiewicz.* *Medical Image Analysis* **(MIA, JCR Q1)**.*2026.* 
 * **You Need Glimpse Before Segmentation:Stochastic Detector-Actor-Critic for Medical Image Segmentation**  
