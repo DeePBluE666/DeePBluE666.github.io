@@ -25,7 +25,7 @@ My research focuses on Knowledge Computing and Information Processing, with part
 > `Selected Publications`
 ------
 
-* **Label space compression and prompt alignment for collaborative inference with small and large language models**  
+* **Label Space Compression and Prompt Alignment for Collaborative Inference with Small and Large Language Models**  
 ***Bo Li***, *Zhenghua Xu, Shikun Zhang, Weiye.*  ***Neurocomputing, JCR Q1, 2026.*** 
 * **Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning**  
 ***Bo Li***, *Mingda Wang, Gexiang Fang, Shikun Zhang, Wei Ye.* ***ACL 2026, CCF Rank A, Main Paper.***[[paper]](https://arxiv.org/abs/2604.11407)[[project]](https://wisdomshell.github.io/GRIP/)[[weight]](https://huggingface.co/collections/WisdomShell/grip)[[code]](https://github.com/WisdomShell/GRIP)![](https://img.shields.io/github/stars/WisdomShell/GRIP.svg)
